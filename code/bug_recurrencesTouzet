@@ -1,0 +1,9 @@
+The code for the recurrences from Helene Touzet returns the currect table when we take k=1.
+When k=2 however, the table has the correct number of rows and columns but the entries of the table contain too many 0's. At the 
+end the total number of words that are accepted by the automoaton is smaller than what we had for the case k=1.
+The number of rows of the table correspond to the number of states of DULA(k) and the columns represent the states of Encod(P,k).
+We know the number of states of DULA(k) is correct based on the numbers in the paper and the number of states of Encod(P,k) also 
+corresponds to the paper.
+The agorithm to create the topological order also seems to work. For k=1 we can check that it is correct.
+The problem is most likely in the implementation of the recurrences
+
