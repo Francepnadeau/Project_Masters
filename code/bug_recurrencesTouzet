@@ -7,3 +7,21 @@ corresponds to the paper.
 The agorithm to create the topological order also seems to work. For k=1 we can check that it is correct.
 The problem is most likely in the implementation of the recurrences
 
+UPDATE JAN 3
+In the code for the recurrences, it seems that the loop does not consider all the bit vectors from endoc_letters.
+
+ for j in I_order:
+        if j>=1 and j<=m+K_dist:
+            for q in range(0,len(DULA_order)):   
+                for u in encod_letters(Sigma,P)[j-1]:
+                    al=alpha(u,j,P,Sigma)
+                    for state in DULA_order[0:q+1]:
+                        count=0
+                        if DULA_order[q] == DULA_transition(state,u):
+                            S_TABLE[q][j]+=al*S_TABLE[count][j-1]
+                            count+=1
+                        else:
+                            count+=1
+                       
+This loop does take all j's in I_order and all q for the range given. When it comes to 'u in encod_letters(Sigma,P)[j-1]', the code only takes the
+bit vector '000' and ignores the others in all the iterations. The function encod_letters returns a list of lists.
