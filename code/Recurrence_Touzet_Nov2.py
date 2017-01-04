@@ -221,7 +221,10 @@ def S(P,Sigma):
         if j>=1 and j<=m+K_dist:
             for q in range(0,len(DULA_order)-1):  #q is the number of the row, corresponding to the state in DULA_order.                                   
                 tab=0
-                for u in encod_letters(Sigma,P)[i-1]:
+                bit_vectors=encod_letters(Sigma,P)[i-1]   
+                print("DEBUG ---->"+str(bit_vectors))
+                for u in bit_vectors:
+                    print("DEBUG "+str(u))
                     al=alpha(u,i,P,Sigma)
                     count=0
                     for state in DULA_order[0:q+1]:
@@ -279,3 +282,13 @@ def S_TOTAL(P,Sigma):
         total+=S_table[q][m+K_dist]+S_table[q][m+3*K_dist]
     return(total)
                
+
+TAB=S(sys.argv[1],['a','b','l'])
+print("TABLE "+str(TAB))
+for i in TAB.keys():
+    TABi=TAB[i]
+    for j in TABi.keys():
+        if TABi[j]>0:
+            print(str(i)+","+str(j)+":"+str(TABi[j]))
+RES=S_TOTAL(sys.argv[1],['a','b','l'])
+print("RESULT "+str(RES))
