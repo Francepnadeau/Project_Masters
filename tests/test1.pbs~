@@ -1,7 +1,0 @@
-#PSH -N fpn_test1
-#PSH -M fpaquetn@sfu.ca
-#PSH -l walltime=12:00:00
-#PSH -l pmem=1gb
-#PSH -l proc=4
-
-cd 
