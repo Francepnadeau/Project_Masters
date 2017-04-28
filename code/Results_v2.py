@@ -50,23 +50,23 @@ end_list=[]     # initialising, for final_no_repeats and prefixes
 # upperbound only needs to be computed for different length of initial words and  different distances
 
 myers_bound=upperbound(k,d,s)
-output_file.write('upper bouns Myers '+str(myers_bound))
+output_file.write('upper bouns Myers '+str(myers_bound)+"\n")
 
 for w in words[0:len(words)/2]:
-    output_file.write('word:')
-    output_file.write(w+" "+str(d))
+    output_file.write('word:\n')
+    output_file.write(w+" "+str(d)+"\n")
     
     touzet=exact_number_words(w,Sigma,d)
-    output_file.write('exact neighborhood'+" "+str(touzet))
+    output_file.write('exact neighborhood'+" "+str(touzet)+"\n")
     
     repeat=repeating_words(w,d,pre,Sigma,[],[])
-    output_file.write('repeats'+" "+str(repeat))
+    output_file.write('repeats'+" "+str(repeat)+"\n")
     
     no_rep=final_no_repeats(w,d,pre,Sigma,[],[])
-    output_file.write('bound without repeats'+" "+str(len(no_rep)))
+    output_file.write('bound without repeats'+" "+str(len(no_rep))+"\n")
     
     pref=prefixes(w,d,pre,Sigma,[],[])
-    output_file.write('number of prefixes'+" "+str(len(pref)))
-    output_file.write(str(pref))
+    output_file.write('number of prefixes'+" "+str(len(pref))+"\n")
+    output_file.write(str(pref)+"\n")
     
 output_file.close()
