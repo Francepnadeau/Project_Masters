@@ -24,12 +24,22 @@ k = int(sys.argv[1])
 d = int(sys.argv[2])
 output_file=open(sys.argv[3],"w")
 
+# -- DEBUG --
+print("k: "+str(k)+" d: "+str(d)+" output: "+sys.argv[3])
+print("Sigma: "+str(Sigma)+" "+str("".join(Sigma)))
+# -- DEBUG --
+
 # This function require as input: initial word, Sigma, distance.
 
 def binseq(k):  #constructing all possible words of length k on a given alphabet
     return [''.join(x) for x in itertools.product("".join(Sigma), repeat=k)]  #need to adapt alphabet if not binary.
     
 words=binseq(k)  # list of all possible words of length k
+
+# -- DEBUG --
+print(words)
+# -- DEBUG --
+
 
 pre=''         # initialising prefix, for final_no_repeats and prefixes
 start_list=[]   # initialising, for final_no_repeats and prefixes
@@ -40,23 +50,23 @@ end_list=[]     # initialising, for final_no_repeats and prefixes
 # upperbound only needs to be computed for different length of initial words and  different distances
 
 myers_bound=upperbound(k,d,s)
-output_file.write('upper bouns Myers', myers_bound)
+output_file.write('upper bouns Myers '+str(myers_bound))
 
 for w in words[0:len(words)/2]:
     output_file.write('word:')
-    output_file.write(w,d)
+    output_file.write(w+" "+str(d))
     
     touzet=exact_number_words(w,Sigma,d)
-    output_file.write('exact neighborhood',touzet)
+    output_file.write('exact neighborhood'+" "+str(touzet))
     
     repeat=repeating_words(w,d,pre,Sigma,[],[])
-    output_file.write('repeats',repeat)
+    output_file.write('repeats'+" "+str(repeat))
     
     no_rep=final_no_repeats(w,d,pre,Sigma,[],[])
-    output_file.write('bound without repeats',len(no_rep))
+    output_file.write('bound without repeats'+" "+str(len(no_rep)))
     
     pref=prefixes(w,d,pre,Sigma,[],[])
-    output_file.write('number of prefixes',len(pref))
-    output_file.write(pref)
+    output_file.write('number of prefixes'+" "+str(len(pref)))
+    output_file.write(str(pref))
     
 output_file.close()
