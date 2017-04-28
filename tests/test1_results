@@ -1,0 +1,92 @@
+('upper bouns Myers', 56)
+word:
+('aaa', 2)
+('exact neighborhood', 109)
+('repeats', (['caa', 2, 'caca', 2, 'caba', 2, 'baa', 2, 'baca', 2, 'baba', 2, 'acaaa', 2, 'abaaa', 2, 'aaa', 2, 'a', 3, 'ca', 2, 'ba', 2], 13))
+('bound without repeats', 41)
+('number of prefixes', 7)
+['a', 'ba', 'bba', 'bca', 'ca', 'cba', 'cca']
+word:
+('aab', 2)
+('exact neighborhood', 120)
+('repeats', (['cacb', 2, 'cabb', 2, 'bacb', 2, 'babb', 2, 'acaab', 2, 'abaab', 2, 'a', 2], 7))
+('bound without repeats', 47)
+('number of prefixes', 6)
+['a', 'b', 'ca', 'cb', 'ccaab', 'ccb']
+word:
+('aac', 2)
+('exact neighborhood', 120)
+('repeats', (['cacc', 2, 'cabc', 2, 'bacc', 2, 'babc', 2, 'acaac', 2, 'abaac', 2, 'a', 2], 7))
+('bound without repeats', 47)
+('number of prefixes', 6)
+['a', 'ba', 'bbaac', 'bbc', 'bc', 'c']
+word:
+('aba', 2)
+('exact neighborhood', 128)
+('repeats', (['caa', 2, 'baa', 2, 'acaba', 2, 'ababa', 2, 'a', 2], 5))
+('bound without repeats', 49)
+('number of prefixes', 5)
+['a', 'b', 'ca', 'cb', 'cca']
+word:
+('abb', 2)
+('exact neighborhood', 120)
+('repeats', (['cab', 3, 'bab', 3, 'acabb', 2, 'ababb', 2, 'aab', 2, 'b', 2, 'cb', 2, 'bb', 2], 10))
+('bound without repeats', 44)
+('number of prefixes', 8)
+['a', 'b', 'caab', 'cab', 'cacb', 'cb', 'ccabb', 'ccb']
+word:
+('abc', 2)
+('exact neighborhood', 130)
+('repeats', (['cac', 2, 'bac', 2, 'acabc', 2, 'ababc', 2], 4))
+('bound without repeats', 50)
+('number of prefixes', 3)
+['a', 'b', 'c']
+word:
+('aca', 2)
+('exact neighborhood', 128)
+('repeats', (['caa', 2, 'baa', 2, 'acaca', 2, 'abaca', 2, 'a', 2], 5))
+('bound without repeats', 49)
+('number of prefixes', 5)
+['a', 'ba', 'bba', 'bc', 'c']
+word:
+('acb', 2)
+('exact neighborhood', 130)
+('repeats', (['cab', 2, 'bab', 2, 'acacb', 2, 'abacb', 2], 4))
+('bound without repeats', 50)
+('number of prefixes', 3)
+['a', 'b', 'c']
+word:
+('acc', 2)
+('exact neighborhood', 120)
+('repeats', (['cac', 3, 'bac', 3, 'acacc', 2, 'abacc', 2, 'aac', 2, 'c', 2, 'cc', 2, 'bc', 2], 10))
+('bound without repeats', 44)
+('number of prefixes', 8)
+['a', 'baac', 'babc', 'bac', 'bbacc', 'bbc', 'bc', 'c']
+word:
+('baa', 2)
+('exact neighborhood', 120)
+('repeats', (['cba', 3, 'bcbaa', 2, 'babaa', 2, 'bba', 2, 'aba', 3, 'a', 2, 'ca', 2, 'aa', 2], 10))
+('bound without repeats', 44)
+('number of prefixes', 8)
+['a', 'b', 'ca', 'cba', 'cbba', 'cbca', 'cca', 'ccbaa']
+word:
+('bab', 2)
+('exact neighborhood', 128)
+('repeats', (['cbb', 2, 'bcbab', 2, 'babab', 2, 'abb', 2, 'b', 2], 5))
+('bound without repeats', 49)
+('number of prefixes', 5)
+['a', 'b', 'ca', 'cb', 'ccb']
+word:
+('bac', 2)
+('exact neighborhood', 130)
+('repeats', (['cbc', 2, 'bcbac', 2, 'babac', 2, 'abc', 2], 4))
+('bound without repeats', 50)
+('number of prefixes', 3)
+['a', 'b', 'c']
+word:
+('bba', 2)
+('exact neighborhood', 120)
+('repeats', (['cbca', 2, 'cbaa', 2, 'bcbba', 2, 'babba', 2, 'abca', 2, 'abaa', 2, 'b', 2], 7))
+('bound without repeats', 47)
+('number of prefixes', 6)
+['a', 'b', 'ca', 'cb', 'cca', 'ccbba']
