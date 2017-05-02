@@ -1,0 +1,9 @@
+#PSH -N fpn_test9_2
+#PSH -M fpaquetn@sfu.ca
+#PSH -l walltime=15:00:00
+#PSH -l pmem=1gb
+#PSH -l proc=4
+
+cd /home/fpaquetn/Project_Masters/code/
+python Results_v2.py 9 2 ../tests/test9_2_results
+cd ../tests/
