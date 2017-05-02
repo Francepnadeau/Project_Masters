@@ -24,9 +24,9 @@ def binseq(k):  #constructing all possible words of length k on a given alphabet
 Sigma=['a','b','c'] # initialising the alphabet
 s=len(Sigma)    # number of element in the alphabet for upperbound
 
-d=4             #initialising number of differences we allow
+d=2             #initialising number of differences we allow
 
-k=5            # initialising length of the initial word
+k=6            # initialising length of the initial word
 words=binseq(k)  # list of all possible words of length k
 
 pre=''         # initialising prefix, for final_no_repeats and prefixes
