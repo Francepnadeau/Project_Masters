@@ -17,11 +17,11 @@ from Recurrence_Touzet_v1 import exact_number_words  #the exact number of words 
 
 
 def binseq(k):  #constructing all possible words of length k on a given alphabet
-    return [''.join(x) for x in itertools.product('abc', repeat=k)]  #need to adapt alphabet if not binary.
+    return [''.join(x) for x in itertools.product('ab', repeat=k)]  #need to adapt alphabet if not binary.
     
 # initialise parameters
 
-Sigma=['a','b','c'] # initialising the alphabet
+Sigma=['a','b'] # initialising the alphabet
 s=len(Sigma)    # number of element in the alphabet for upperbound
 
 d=2             #initialising number of differences we allow
