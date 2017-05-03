@@ -52,14 +52,15 @@ for w in words[0:len(words)/2]:
     touzet=exact_number_words(w,Sigma,d)
     output_file.write('exact neighborhood'+" "+str(touzet)+"\n")
     
-    repeat=repeating_words(w,d,pre,Sigma,[],[])
-    output_file.write('repeats'+" "+str(repeat)+"\n")
+    counter,repeat=repeating_words(w,d,pre,Sigma,[],[])
+    output_file.write('number of repeats'+" "+str(counter)+"\n")
+    output_file.write('words repeated'+" " +", ".join(repr(e) for e in repeat )+"\n")
     
     no_rep=final_no_repeats(w,d,pre,Sigma,[],[])
     output_file.write('bound without repeats'+" "+str(len(no_rep))+"\n")
     
     pref=prefixes(w,d,pre,Sigma,[],[])
     output_file.write('number of prefixes'+" "+str(len(pref))+"\n")
-    output_file.write(str(pref)+"\n")
+    output_file.write('the prefixes are:'+" " +", ".join(pref)+"\n")
     
 output_file.close()
