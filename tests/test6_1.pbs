@@ -5,5 +5,5 @@
 #PSH -l proc=4
 
 cd /home/fpaquetn/Project_Masters/code/
-python Results_v2.py 6 1 ../tests/test6_1_results
+python Results_v3.py 6 1 ../tests/test6_1_results
 cd ../tests/
