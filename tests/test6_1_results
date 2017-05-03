@@ -1,225 +1,225 @@
-upper bouns Myers 18
-word:
-aaaaaa 1
+upper bound Myers 18
+word: aaaaaa distance: 1
 exact neighborhood 16
-repeats (5, ['aaaaa', 6])
+number of repeats 5
+words repeated 'aaaaa', 6
 bound without repeats 13
 number of prefixes 6
-['aaaaa', 'aaaaba', 'aaabaa', 'aabaaa', 'abaaaa', 'baaaaa']
-word:
-aaaaab 1
+the prefixes are: aaaaa, aaaaba, aaabaa, aabaaa, abaaaa, baaaaa
+word: aaaaab distance: 1
 exact neighborhood 17
-repeats (4, ['aaaab', 5])
+number of repeats 4
+words repeated 'aaaab', 5
 bound without repeats 14
 number of prefixes 10
-['aaaaa', 'aaaab', 'aaabaab', 'aaabab', 'aabaaab', 'aabaab', 'abaaaab', 'abaaab', 'baaaaab', 'baaaab']
-word:
-aaaaba 1
+the prefixes are: aaaaa, aaaab, aaabaab, aaabab, aabaaab, aabaab, abaaaab, abaaab, baaaaab, baaaab
+word: aaaaba distance: 1
 exact neighborhood 18
-repeats (3, ['aaaba', 4])
+number of repeats 3
+words repeated 'aaaba', 4
 bound without repeats 15
 number of prefixes 10
-['aaaaa', 'aaaab', 'aaaba', 'aaabba', 'aabaaba', 'aababa', 'abaaaba', 'abaaba', 'baaaaba', 'baaaba']
-word:
-aaaabb 1
+the prefixes are: aaaaa, aaaab, aaaba, aaabba, aabaaba, aababa, abaaaba, abaaba, baaaaba, baaaba
+word: aaaabb distance: 1
 exact neighborhood 17
-repeats (4, ['aaabb', 4, 'aaaab', 2])
+number of repeats 4
+words repeated 'aaabb', 4, 'aaaab', 2
 bound without repeats 14
 number of prefixes 10
-['aaaaab', 'aaaab', 'aaababb', 'aaabb', 'aabaabb', 'aababb', 'abaaabb', 'abaabb', 'baaaabb', 'baaabb']
-word:
-aaabaa 1
+the prefixes are: aaaaab, aaaab, aaababb, aaabb, aabaabb, aababb, abaaabb, abaabb, baaaabb, baaabb
+word: aaabaa distance: 1
 exact neighborhood 18
-repeats (3, ['aabaa', 3, 'aaaba', 2])
+number of repeats 3
+words repeated 'aabaa', 3, 'aaaba', 2
 bound without repeats 15
 number of prefixes 11
-['aaaaa', 'aaaabaa', 'aaaba', 'aaabba', 'aabaa', 'aababaa', 'aabbaa', 'abaabaa', 'ababaa', 'baaabaa', 'baabaa']
-word:
-aaabab 1
+the prefixes are: aaaaa, aaaabaa, aaaba, aaabba, aabaa, aababaa, aabbaa, abaabaa, ababaa, baaabaa, baabaa
+word: aaabab distance: 1
 exact neighborhood 19
-repeats (2, ['aabab', 3])
+number of repeats 2
+words repeated 'aabab', 3
 bound without repeats 16
 number of prefixes 10
-['aaaaab', 'aaaab', 'aaaba', 'aaabb', 'aabab', 'aabbab', 'abaabab', 'ababab', 'baaabab', 'baabab']
-word:
-aaabba 1
+the prefixes are: aaaaab, aaaab, aaaba, aaabb, aabab, aabbab, abaabab, ababab, baaabab, baabab
+word: aaabba distance: 1
 exact neighborhood 18
-repeats (3, ['aabba', 3, 'aaaba', 2])
+number of repeats 3
+words repeated 'aabba', 3, 'aaaba', 2
 bound without repeats 15
 number of prefixes 11
-['aaaaba', 'aaaabba', 'aaaba', 'aaabb', 'aababba', 'aabba', 'aabbba', 'abaabba', 'ababba', 'baaabba', 'baabba']
-word:
-aaabbb 1
+the prefixes are: aaaaba, aaaabba, aaaba, aaabb, aababba, aabba, aabbba, abaabba, ababba, baaabba, baabba
+word: aaabbb distance: 1
 exact neighborhood 17
-repeats (4, ['aabbb', 3, 'aaabb', 3])
+number of repeats 4
+words repeated 'aabbb', 3, 'aaabb', 3
 bound without repeats 14
 number of prefixes 9
-['aaaabb', 'aaabab', 'aaabb', 'aababbb', 'aabbb', 'abaabbb', 'ababbb', 'baaabbb', 'baabbb']
-word:
-aabaaa 1
+the prefixes are: aaaabb, aaabab, aaabb, aababbb, aabbb, abaabbb, ababbb, baaabbb, baabbb
+word: aabaaa distance: 1
 exact neighborhood 18
-repeats (3, ['abaaa', 2, 'aabaa', 3])
+number of repeats 3
+words repeated 'abaaa', 2, 'aabaa', 3
 bound without repeats 15
 number of prefixes 10
-['aaaaa', 'aaabaaa', 'aabaa', 'aababa', 'aabbaa', 'abaaa', 'ababaaa', 'abbaaa', 'baabaaa', 'babaaa']
-word:
-aabaab 1
+the prefixes are: aaaaa, aaabaaa, aabaa, aababa, aabbaa, abaaa, ababaaa, abbaaa, baabaaa, babaaa
+word: aabaab distance: 1
 exact neighborhood 19
-repeats (2, ['abaab', 2, 'aabab', 2])
+number of repeats 2
+words repeated 'abaab', 2, 'aabab', 2
 bound without repeats 16
 number of prefixes 12
-['aaaaab', 'aaaab', 'aaabaab', 'aabaa', 'aabab', 'aabbaab', 'aabbab', 'abaab', 'ababaab', 'abbaab', 'baabaab', 'babaab']
-word:
-aababa 1
+the prefixes are: aaaaab, aaaab, aaabaab, aabaa, aabab, aabbaab, aabbab, abaab, ababaab, abbaab, baabaab, babaab
+word: aababa distance: 1
 exact neighborhood 20
-repeats (1, ['ababa', 2])
+number of repeats 1
+words repeated 'ababa', 2
 bound without repeats 17
 number of prefixes 10
-['aaaaba', 'aaaba', 'aabaa', 'aabab', 'aabba', 'aabbba', 'ababa', 'abbaba', 'baababa', 'bababa']
-word:
-aababb 1
+the prefixes are: aaaaba, aaaba, aabaa, aabab, aabba, aabbba, ababa, abbaba, baababa, bababa
+word: aababb distance: 1
 exact neighborhood 19
-repeats (2, ['ababb', 2, 'aabab', 2])
+number of repeats 2
+words repeated 'ababb', 2, 'aabab', 2
 bound without repeats 16
 number of prefixes 12
-['aaaabb', 'aaababb', 'aaabb', 'aabaab', 'aabab', 'aabbabb', 'aabbb', 'abababb', 'ababb', 'abbabb', 'baababb', 'bababb']
-word:
-aabbaa 1
+the prefixes are: aaaabb, aaababb, aaabb, aabaab, aabab, aabbabb, aabbb, abababb, ababb, abbabb, baababb, bababb
+word: aabbaa distance: 1
 exact neighborhood 18
-repeats (3, ['abbaa', 2, 'aabaa', 2, 'aabba', 2])
+number of repeats 3
+words repeated 'abbaa', 2, 'aabaa', 2, 'aabba', 2
 bound without repeats 15
 number of prefixes 11
-['aaabaa', 'aaabbaa', 'aabaa', 'aababaa', 'aabba', 'aabbba', 'ababbaa', 'abbaa', 'abbbaa', 'baabbaa', 'babbaa']
-word:
-aabbab 1
+the prefixes are: aaabaa, aaabbaa, aabaa, aababaa, aabba, aabbba, ababbaa, abbaa, abbbaa, baabbaa, babbaa
+word: aabbab distance: 1
 exact neighborhood 19
-repeats (2, ['abbab', 2, 'aabab', 2])
+number of repeats 2
+words repeated 'abbab', 2, 'aabab', 2
 bound without repeats 16
 number of prefixes 11
-['aaabab', 'aaabbab', 'aabaab', 'aabab', 'aabba', 'aabbb', 'ababbab', 'abbab', 'abbbab', 'baabbab', 'babbab']
-word:
-aabbba 1
+the prefixes are: aaabab, aaabbab, aabaab, aabab, aabba, aabbb, ababbab, abbab, abbbab, baabbab, babbab
+word: aabbba distance: 1
 exact neighborhood 18
-repeats (3, ['abbba', 2, 'aabba', 3])
+number of repeats 3
+words repeated 'abbba', 2, 'aabba', 3
 bound without repeats 15
 number of prefixes 11
-['aaabba', 'aaabbba', 'aababa', 'aababba', 'aabba', 'aabbb', 'ababbba', 'abbba', 'abbbba', 'baabbba', 'babbba']
-word:
-aabbbb 1
+the prefixes are: aaabba, aaabbba, aababa, aababba, aabba, aabbb, ababbba, abbba, abbbba, baabbba, babbba
+word: aabbbb distance: 1
 exact neighborhood 17
-repeats (4, ['abbbb', 2, 'aabbb', 4])
+number of repeats 4
+words repeated 'abbbb', 2, 'aabbb', 4
 bound without repeats 14
 number of prefixes 8
-['aaabbb', 'aababb', 'aabbab', 'aabbb', 'ababbbb', 'abbbb', 'baabbbb', 'babbbb']
-word:
-abaaaa 1
+the prefixes are: aaabbb, aababb, aabbab, aabbb, ababbbb, abbbb, baabbbb, babbbb
+word: abaaaa distance: 1
 exact neighborhood 18
-repeats (3, ['abaaa', 4])
+number of repeats 3
+words repeated 'abaaa', 4
 bound without repeats 15
 number of prefixes 9
-['aaaaa', 'aabaaaa', 'abaaa', 'abaaba', 'ababaa', 'abbaaa', 'baaaa', 'babaaaa', 'bbaaaa']
-word:
-abaaab 1
+the prefixes are: aaaaa, aabaaaa, abaaa, abaaba, ababaa, abbaaa, baaaa, babaaaa, bbaaaa
+word: abaaab distance: 1
 exact neighborhood 19
-repeats (2, ['abaab', 3])
+number of repeats 2
+words repeated 'abaab', 3
 bound without repeats 16
 number of prefixes 12
-['aaaaab', 'aaaab', 'aabaaab', 'abaaa', 'abaab', 'ababaab', 'ababab', 'abbaaab', 'abbaab', 'baaab', 'babaaab', 'bbaaab']
-word:
-abaaba 1
+the prefixes are: aaaaab, aaaab, aabaaab, abaaa, abaab, ababaab, ababab, abbaaab, abbaab, baaab, babaaab, bbaaab
+word: abaaba distance: 1
 exact neighborhood 20
-repeats (1, ['ababa', 2])
+number of repeats 1
+words repeated 'ababa', 2
 bound without repeats 17
 number of prefixes 12
-['aaaaba', 'aaaba', 'aabaaba', 'abaaa', 'abaab', 'ababa', 'ababba', 'abbaaba', 'abbaba', 'baaba', 'babaaba', 'bbaaba']
-word:
-abaabb 1
+the prefixes are: aaaaba, aaaba, aabaaba, abaaa, abaab, ababa, ababba, abbaaba, abbaba, baaba, babaaba, bbaaba
+word: abaabb distance: 1
 exact neighborhood 19
-repeats (2, ['ababb', 2, 'abaab', 2])
+number of repeats 2
+words repeated 'ababb', 2, 'abaab', 2
 bound without repeats 16
 number of prefixes 12
-['aaaabb', 'aaabb', 'aabaabb', 'abaaab', 'abaab', 'abababb', 'ababb', 'abbaabb', 'abbabb', 'baabb', 'babaabb', 'bbaabb']
-word:
-ababaa 1
+the prefixes are: aaaabb, aaabb, aabaabb, abaaab, abaab, abababb, ababb, abbaabb, abbabb, baabb, babaabb, bbaabb
+word: ababaa distance: 1
 exact neighborhood 20
-repeats (1, ['ababa', 2])
+number of repeats 1
+words repeated 'ababa', 2
 bound without repeats 17
 number of prefixes 13
-['aaabaa', 'aabaa', 'aababaa', 'abaaa', 'abaabaa', 'ababa', 'ababba', 'abbaa', 'abbabaa', 'abbbaa', 'babaa', 'bababaa', 'bbabaa']
-word:
-ababab 1
+the prefixes are: aaabaa, aabaa, aababaa, abaaa, abaabaa, ababa, ababba, abbaa, abbabaa, abbbaa, babaa, bababaa, bbabaa
+word: ababab distance: 1
 exact neighborhood 21
-repeats (0, [])
+number of repeats 0
+words repeated 
 bound without repeats 18
 number of prefixes 10
-['aaabab', 'aabab', 'abaaab', 'abaab', 'ababa', 'ababb', 'abbab', 'abbbab', 'babab', 'bbabab']
-word:
-ababba 1
+the prefixes are: aaabab, aabab, abaaab, abaab, ababa, ababb, abbab, abbbab, babab, bbabab
+word: ababba distance: 1
 exact neighborhood 20
-repeats (1, ['ababa', 2])
+number of repeats 1
+words repeated 'ababa', 2
 bound without repeats 17
 number of prefixes 13
-['aaabba', 'aababba', 'aabba', 'abaaba', 'abaabba', 'ababa', 'ababb', 'abbabba', 'abbba', 'abbbba', 'bababba', 'babba', 'bbabba']
-word:
-ababbb 1
+the prefixes are: aaabba, aababba, aabba, abaaba, abaabba, ababa, ababb, abbabba, abbba, abbbba, bababba, babba, bbabba
+word: ababbb distance: 1
 exact neighborhood 19
-repeats (2, ['ababb', 3])
+number of repeats 2
+words repeated 'ababb', 3
 bound without repeats 16
 number of prefixes 11
-['aaabbb', 'aababbb', 'aabbb', 'abaabb', 'ababab', 'ababb', 'abbabbb', 'abbbb', 'bababbb', 'babbb', 'bbabbb']
-word:
-abbaaa 1
+the prefixes are: aaabbb, aababbb, aabbb, abaabb, ababab, ababb, abbabbb, abbbb, bababbb, babbb, bbabbb
+word: abbaaa distance: 1
 exact neighborhood 18
-repeats (3, ['abaaa', 2, 'abbaa', 3])
+number of repeats 3
+words repeated 'abaaa', 2, 'abbaa', 3
 bound without repeats 15
 number of prefixes 10
-['aabaaa', 'aabbaaa', 'abaaa', 'ababaaa', 'abbaa', 'abbaba', 'abbbaa', 'babbaaa', 'bbaaa', 'bbbaaa']
-word:
-abbaab 1
+the prefixes are: aabaaa, aabbaaa, abaaa, ababaaa, abbaa, abbaba, abbbaa, babbaaa, bbaaa, bbbaaa
+word: abbaab distance: 1
 exact neighborhood 19
-repeats (2, ['abaab', 2, 'abbab', 2])
+number of repeats 2
+words repeated 'abaab', 2, 'abbab', 2
 bound without repeats 16
 number of prefixes 12
-['aabaab', 'aabbaab', 'abaaab', 'abaab', 'ababaab', 'abbaa', 'abbab', 'abbbaab', 'abbbab', 'babbaab', 'bbaab', 'bbbaab']
-word:
-abbaba 1
+the prefixes are: aabaab, aabbaab, abaaab, abaab, ababaab, abbaa, abbab, abbbaab, abbbab, babbaab, bbaab, bbbaab
+word: abbaba distance: 1
 exact neighborhood 20
-repeats (1, ['ababa', 2])
+number of repeats 1
+words repeated 'ababa', 2
 bound without repeats 17
 number of prefixes 11
-['aababa', 'aabbaba', 'abaaba', 'ababa', 'abbaa', 'abbab', 'abbba', 'abbbba', 'babbaba', 'bbaba', 'bbbaba']
-word:
-abbabb 1
+the prefixes are: aababa, aabbaba, abaaba, ababa, abbaa, abbab, abbba, abbbba, babbaba, bbaba, bbbaba
+word: abbabb distance: 1
 exact neighborhood 19
-repeats (2, ['ababb', 2, 'abbab', 2])
+number of repeats 2
+words repeated 'ababb', 2, 'abbab', 2
 bound without repeats 16
 number of prefixes 12
-['aababb', 'aabbabb', 'abaabb', 'abababb', 'ababb', 'abbaab', 'abbab', 'abbbabb', 'abbbb', 'babbabb', 'bbabb', 'bbbabb']
-word:
-abbbaa 1
+the prefixes are: aababb, aabbabb, abaabb, abababb, ababb, abbaab, abbab, abbbabb, abbbb, babbabb, bbabb, bbbabb
+word: abbbaa distance: 1
 exact neighborhood 18
-repeats (3, ['abbaa', 3, 'abbba', 2])
+number of repeats 3
+words repeated 'abbaa', 3, 'abbba', 2
 bound without repeats 15
 number of prefixes 11
-['aabbaa', 'aabbbaa', 'ababaa', 'ababbaa', 'abbaa', 'abbabaa', 'abbba', 'abbbba', 'babbbaa', 'bbbaa', 'bbbbaa']
-word:
-abbbab 1
+the prefixes are: aabbaa, aabbbaa, ababaa, ababbaa, abbaa, abbabaa, abbba, abbbba, babbbaa, bbbaa, bbbbaa
+word: abbbab distance: 1
 exact neighborhood 19
-repeats (2, ['abbab', 3])
+number of repeats 2
+words repeated 'abbab', 3
 bound without repeats 16
 number of prefixes 11
-['aabbab', 'aabbbab', 'ababab', 'ababbab', 'abbaab', 'abbab', 'abbba', 'abbbb', 'babbbab', 'bbbab', 'bbbbab']
-word:
-abbbba 1
+the prefixes are: aabbab, aabbbab, ababab, ababbab, abbaab, abbab, abbba, abbbb, babbbab, bbbab, bbbbab
+word: abbbba distance: 1
 exact neighborhood 18
-repeats (3, ['abbba', 4])
+number of repeats 3
+words repeated 'abbba', 4
 bound without repeats 15
 number of prefixes 11
-['aabbba', 'aabbbba', 'ababba', 'ababbba', 'abbaba', 'abbabba', 'abbba', 'abbbb', 'babbbba', 'bbbba', 'bbbbba']
-word:
-abbbbb 1
+the prefixes are: aabbba, aabbbba, ababba, ababbba, abbaba, abbabba, abbba, abbbb, babbbba, bbbba, bbbbba
+word: abbbbb distance: 1
 exact neighborhood 17
-repeats (4, ['abbbb', 5])
+number of repeats 4
+words repeated 'abbbb', 5
 bound without repeats 14
 number of prefixes 7
-['aabbbb', 'ababbb', 'abbabb', 'abbbab', 'abbbb', 'babbbbb', 'bbbbb']
+the prefixes are: aabbbb, ababbb, abbabb, abbbab, abbbb, babbbbb, bbbbb
