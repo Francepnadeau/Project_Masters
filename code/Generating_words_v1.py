@@ -142,14 +142,14 @@ def repeating_words(word,d,prefix,Sigma,initial_list,final):
             repeats.append(w)
             repeats.append(k)
             counter+=(k-1)
-    return(repeats,counter)
+    return(counter,repeats)
     
 #Creating the list of words without the repetition found previously.
 
 def final_no_repeats(word,d,prefix,Sigma,initial_list,final):
     
     final_words=Generating_words(word,d,prefix,Sigma,initial_list,final)
-    repeats,number=repeating_words(word,d,prefix,Sigma,initial_list,final)
+    number,repeats=repeating_words(word,d,prefix,Sigma,initial_list,final)
     
     no_repeats=[]  #list that will contain the final words 
     
