@@ -54,10 +54,10 @@ for w in words[0:len(words)/2]:
     
     counter,repeat=repeating_words(w,d,pre,Sigma,[],[])
     output_file.write('Total number of repeats:'+" "+str(counter)+"\n")
-    output_file.write('Words that repeat:')
+    output_file.write('Words that repeat:'+"\n")
     i=0
     while i<len(repeat):
-        output_file.write(str(repeat[i]) + str(repeat[i+1])+"\n")
+        output_file.write(str(repeat[i])+" "+ str(repeat[i+1])+"\n")
         i+=2
         
     
