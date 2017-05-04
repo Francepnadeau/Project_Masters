@@ -1,0 +1,273 @@
+Upper bound Myers 18
+word: aaaaaa distance: 1
+Exact neighborhood: 16
+Total number of repeats: 5
+Words that repeat:
+aaaaa 6
+Myers bound without repeats: 13
+Number of prefixes: 6
+The prefixes are: aaaaa, aaaaba, aaabaa, aabaaa, abaaaa, baaaaa
+word: aaaaab distance: 1
+Exact neighborhood: 17
+Total number of repeats: 4
+Words that repeat:
+aaaab 5
+Myers bound without repeats: 14
+Number of prefixes: 10
+The prefixes are: aaaaa, aaaab, aaabaab, aaabab, aabaaab, aabaab, abaaaab, abaaab, baaaaab, baaaab
+word: aaaaba distance: 1
+Exact neighborhood: 18
+Total number of repeats: 3
+Words that repeat:
+aaaba 4
+Myers bound without repeats: 15
+Number of prefixes: 10
+The prefixes are: aaaaa, aaaab, aaaba, aaabba, aabaaba, aababa, abaaaba, abaaba, baaaaba, baaaba
+word: aaaabb distance: 1
+Exact neighborhood: 17
+Total number of repeats: 4
+Words that repeat:
+aaabb 4
+aaaab 2
+Myers bound without repeats: 14
+Number of prefixes: 10
+The prefixes are: aaaaab, aaaab, aaababb, aaabb, aabaabb, aababb, abaaabb, abaabb, baaaabb, baaabb
+word: aaabaa distance: 1
+Exact neighborhood: 18
+Total number of repeats: 3
+Words that repeat:
+aabaa 3
+aaaba 2
+Myers bound without repeats: 15
+Number of prefixes: 11
+The prefixes are: aaaaa, aaaabaa, aaaba, aaabba, aabaa, aababaa, aabbaa, abaabaa, ababaa, baaabaa, baabaa
+word: aaabab distance: 1
+Exact neighborhood: 19
+Total number of repeats: 2
+Words that repeat:
+aabab 3
+Myers bound without repeats: 16
+Number of prefixes: 10
+The prefixes are: aaaaab, aaaab, aaaba, aaabb, aabab, aabbab, abaabab, ababab, baaabab, baabab
+word: aaabba distance: 1
+Exact neighborhood: 18
+Total number of repeats: 3
+Words that repeat:
+aabba 3
+aaaba 2
+Myers bound without repeats: 15
+Number of prefixes: 11
+The prefixes are: aaaaba, aaaabba, aaaba, aaabb, aababba, aabba, aabbba, abaabba, ababba, baaabba, baabba
+word: aaabbb distance: 1
+Exact neighborhood: 17
+Total number of repeats: 4
+Words that repeat:
+aabbb 3
+aaabb 3
+Myers bound without repeats: 14
+Number of prefixes: 9
+The prefixes are: aaaabb, aaabab, aaabb, aababbb, aabbb, abaabbb, ababbb, baaabbb, baabbb
+word: aabaaa distance: 1
+Exact neighborhood: 18
+Total number of repeats: 3
+Words that repeat:
+abaaa 2
+aabaa 3
+Myers bound without repeats: 15
+Number of prefixes: 10
+The prefixes are: aaaaa, aaabaaa, aabaa, aababa, aabbaa, abaaa, ababaaa, abbaaa, baabaaa, babaaa
+word: aabaab distance: 1
+Exact neighborhood: 19
+Total number of repeats: 2
+Words that repeat:
+abaab 2
+aabab 2
+Myers bound without repeats: 16
+Number of prefixes: 12
+The prefixes are: aaaaab, aaaab, aaabaab, aabaa, aabab, aabbaab, aabbab, abaab, ababaab, abbaab, baabaab, babaab
+word: aababa distance: 1
+Exact neighborhood: 20
+Total number of repeats: 1
+Words that repeat:
+ababa 2
+Myers bound without repeats: 17
+Number of prefixes: 10
+The prefixes are: aaaaba, aaaba, aabaa, aabab, aabba, aabbba, ababa, abbaba, baababa, bababa
+word: aababb distance: 1
+Exact neighborhood: 19
+Total number of repeats: 2
+Words that repeat:
+ababb 2
+aabab 2
+Myers bound without repeats: 16
+Number of prefixes: 12
+The prefixes are: aaaabb, aaababb, aaabb, aabaab, aabab, aabbabb, aabbb, abababb, ababb, abbabb, baababb, bababb
+word: aabbaa distance: 1
+Exact neighborhood: 18
+Total number of repeats: 3
+Words that repeat:
+abbaa 2
+aabaa 2
+aabba 2
+Myers bound without repeats: 15
+Number of prefixes: 11
+The prefixes are: aaabaa, aaabbaa, aabaa, aababaa, aabba, aabbba, ababbaa, abbaa, abbbaa, baabbaa, babbaa
+word: aabbab distance: 1
+Exact neighborhood: 19
+Total number of repeats: 2
+Words that repeat:
+abbab 2
+aabab 2
+Myers bound without repeats: 16
+Number of prefixes: 11
+The prefixes are: aaabab, aaabbab, aabaab, aabab, aabba, aabbb, ababbab, abbab, abbbab, baabbab, babbab
+word: aabbba distance: 1
+Exact neighborhood: 18
+Total number of repeats: 3
+Words that repeat:
+abbba 2
+aabba 3
+Myers bound without repeats: 15
+Number of prefixes: 11
+The prefixes are: aaabba, aaabbba, aababa, aababba, aabba, aabbb, ababbba, abbba, abbbba, baabbba, babbba
+word: aabbbb distance: 1
+Exact neighborhood: 17
+Total number of repeats: 4
+Words that repeat:
+abbbb 2
+aabbb 4
+Myers bound without repeats: 14
+Number of prefixes: 8
+The prefixes are: aaabbb, aababb, aabbab, aabbb, ababbbb, abbbb, baabbbb, babbbb
+word: abaaaa distance: 1
+Exact neighborhood: 18
+Total number of repeats: 3
+Words that repeat:
+abaaa 4
+Myers bound without repeats: 15
+Number of prefixes: 9
+The prefixes are: aaaaa, aabaaaa, abaaa, abaaba, ababaa, abbaaa, baaaa, babaaaa, bbaaaa
+word: abaaab distance: 1
+Exact neighborhood: 19
+Total number of repeats: 2
+Words that repeat:
+abaab 3
+Myers bound without repeats: 16
+Number of prefixes: 12
+The prefixes are: aaaaab, aaaab, aabaaab, abaaa, abaab, ababaab, ababab, abbaaab, abbaab, baaab, babaaab, bbaaab
+word: abaaba distance: 1
+Exact neighborhood: 20
+Total number of repeats: 1
+Words that repeat:
+ababa 2
+Myers bound without repeats: 17
+Number of prefixes: 12
+The prefixes are: aaaaba, aaaba, aabaaba, abaaa, abaab, ababa, ababba, abbaaba, abbaba, baaba, babaaba, bbaaba
+word: abaabb distance: 1
+Exact neighborhood: 19
+Total number of repeats: 2
+Words that repeat:
+ababb 2
+abaab 2
+Myers bound without repeats: 16
+Number of prefixes: 12
+The prefixes are: aaaabb, aaabb, aabaabb, abaaab, abaab, abababb, ababb, abbaabb, abbabb, baabb, babaabb, bbaabb
+word: ababaa distance: 1
+Exact neighborhood: 20
+Total number of repeats: 1
+Words that repeat:
+ababa 2
+Myers bound without repeats: 17
+Number of prefixes: 13
+The prefixes are: aaabaa, aabaa, aababaa, abaaa, abaabaa, ababa, ababba, abbaa, abbabaa, abbbaa, babaa, bababaa, bbabaa
+word: ababab distance: 1
+Exact neighborhood: 21
+Total number of repeats: 0
+Words that repeat:
+Myers bound without repeats: 18
+Number of prefixes: 10
+The prefixes are: aaabab, aabab, abaaab, abaab, ababa, ababb, abbab, abbbab, babab, bbabab
+word: ababba distance: 1
+Exact neighborhood: 20
+Total number of repeats: 1
+Words that repeat:
+ababa 2
+Myers bound without repeats: 17
+Number of prefixes: 13
+The prefixes are: aaabba, aababba, aabba, abaaba, abaabba, ababa, ababb, abbabba, abbba, abbbba, bababba, babba, bbabba
+word: ababbb distance: 1
+Exact neighborhood: 19
+Total number of repeats: 2
+Words that repeat:
+ababb 3
+Myers bound without repeats: 16
+Number of prefixes: 11
+The prefixes are: aaabbb, aababbb, aabbb, abaabb, ababab, ababb, abbabbb, abbbb, bababbb, babbb, bbabbb
+word: abbaaa distance: 1
+Exact neighborhood: 18
+Total number of repeats: 3
+Words that repeat:
+abaaa 2
+abbaa 3
+Myers bound without repeats: 15
+Number of prefixes: 10
+The prefixes are: aabaaa, aabbaaa, abaaa, ababaaa, abbaa, abbaba, abbbaa, babbaaa, bbaaa, bbbaaa
+word: abbaab distance: 1
+Exact neighborhood: 19
+Total number of repeats: 2
+Words that repeat:
+abaab 2
+abbab 2
+Myers bound without repeats: 16
+Number of prefixes: 12
+The prefixes are: aabaab, aabbaab, abaaab, abaab, ababaab, abbaa, abbab, abbbaab, abbbab, babbaab, bbaab, bbbaab
+word: abbaba distance: 1
+Exact neighborhood: 20
+Total number of repeats: 1
+Words that repeat:
+ababa 2
+Myers bound without repeats: 17
+Number of prefixes: 11
+The prefixes are: aababa, aabbaba, abaaba, ababa, abbaa, abbab, abbba, abbbba, babbaba, bbaba, bbbaba
+word: abbabb distance: 1
+Exact neighborhood: 19
+Total number of repeats: 2
+Words that repeat:
+ababb 2
+abbab 2
+Myers bound without repeats: 16
+Number of prefixes: 12
+The prefixes are: aababb, aabbabb, abaabb, abababb, ababb, abbaab, abbab, abbbabb, abbbb, babbabb, bbabb, bbbabb
+word: abbbaa distance: 1
+Exact neighborhood: 18
+Total number of repeats: 3
+Words that repeat:
+abbaa 3
+abbba 2
+Myers bound without repeats: 15
+Number of prefixes: 11
+The prefixes are: aabbaa, aabbbaa, ababaa, ababbaa, abbaa, abbabaa, abbba, abbbba, babbbaa, bbbaa, bbbbaa
+word: abbbab distance: 1
+Exact neighborhood: 19
+Total number of repeats: 2
+Words that repeat:
+abbab 3
+Myers bound without repeats: 16
+Number of prefixes: 11
+The prefixes are: aabbab, aabbbab, ababab, ababbab, abbaab, abbab, abbba, abbbb, babbbab, bbbab, bbbbab
+word: abbbba distance: 1
+Exact neighborhood: 18
+Total number of repeats: 3
+Words that repeat:
+abbba 4
+Myers bound without repeats: 15
+Number of prefixes: 11
+The prefixes are: aabbba, aabbbba, ababba, ababbba, abbaba, abbabba, abbba, abbbb, babbbba, bbbba, bbbbba
+word: abbbbb distance: 1
+Exact neighborhood: 17
+Total number of repeats: 4
+Words that repeat:
+abbbb 5
+Myers bound without repeats: 14
+Number of prefixes: 7
+The prefixes are: aabbbb, ababbb, abbabb, abbbab, abbbb, babbbbb, bbbbb
