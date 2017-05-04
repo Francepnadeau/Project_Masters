@@ -1,0 +1,897 @@
+upper bound Myers 24
+word: aaaaaaaa distance: 1
+exact neighborhood 20
+number of repeats 7
+words repeated 'aaaaaaa', 8
+bound without repeats 17
+number of prefixes 8
+the prefixes are: aaaaaaa, aaaaaaba, aaaaabaa, aaaabaaa, aaabaaaa, aabaaaaa, abaaaaaa, baaaaaaa
+word: aaaaaaab distance: 1
+exact neighborhood 21
+number of repeats 6
+words repeated 'aaaaaab', 7
+bound without repeats 18
+number of prefixes 14
+the prefixes are: aaaaaaa, aaaaaab, aaaaabaab, aaaaabab, aaaabaaab, aaaabaab, aaabaaaab, aaabaaab, aabaaaaab, aabaaaab, abaaaaaab, abaaaaab, baaaaaaab, baaaaaab
+word: aaaaaaba distance: 1
+exact neighborhood 22
+number of repeats 5
+words repeated 'aaaaaba', 6
+bound without repeats 19
+number of prefixes 14
+the prefixes are: aaaaaaa, aaaaaab, aaaaaba, aaaaabba, aaaabaaba, aaaababa, aaabaaaba, aaabaaba, aabaaaaba, aabaaaba, abaaaaaba, abaaaaba, baaaaaaba, baaaaaba
+word: aaaaaabb distance: 1
+exact neighborhood 21
+number of repeats 6
+words repeated 'aaaaabb', 6, 'aaaaaab', 2
+bound without repeats 18
+number of prefixes 14
+the prefixes are: aaaaaaab, aaaaaab, aaaaababb, aaaaabb, aaaabaabb, aaaababb, aaabaaabb, aaabaabb, aabaaaabb, aabaaabb, abaaaaabb, abaaaabb, baaaaaabb, baaaaabb
+word: aaaaabaa distance: 1
+exact neighborhood 22
+number of repeats 5
+words repeated 'aaaabaa', 5, 'aaaaaba', 2
+bound without repeats 19
+number of prefixes 15
+the prefixes are: aaaaaaa, aaaaaabaa, aaaaaba, aaaaabba, aaaabaa, aaaababaa, aaaabbaa, aaabaabaa, aaababaa, aabaaabaa, aabaabaa, abaaaabaa, abaaabaa, baaaaabaa, baaaabaa
+word: aaaaabab distance: 1
+exact neighborhood 23
+number of repeats 4
+words repeated 'aaaabab', 5
+bound without repeats 20
+number of prefixes 14
+the prefixes are: aaaaaaab, aaaaaab, aaaaaba, aaaaabb, aaaabab, aaaabbab, aaabaabab, aaababab, aabaaabab, aabaabab, abaaaabab, abaaabab, baaaaabab, baaaabab
+word: aaaaabba distance: 1
+exact neighborhood 22
+number of repeats 5
+words repeated 'aaaabba', 5, 'aaaaaba', 2
+bound without repeats 19
+number of prefixes 15
+the prefixes are: aaaaaaba, aaaaaabba, aaaaaba, aaaaabb, aaaababba, aaaabba, aaaabbba, aaabaabba, aaababba, aabaaabba, aabaabba, abaaaabba, abaaabba, baaaaabba, baaaabba
+word: aaaaabbb distance: 1
+exact neighborhood 21
+number of repeats 6
+words repeated 'aaaabbb', 5, 'aaaaabb', 3
+bound without repeats 18
+number of prefixes 13
+the prefixes are: aaaaaabb, aaaaabab, aaaaabb, aaaababbb, aaaabbb, aaabaabbb, aaababbb, aabaaabbb, aabaabbb, abaaaabbb, abaaabbb, baaaaabbb, baaaabbb
+word: aaaabaaa distance: 1
+exact neighborhood 22
+number of repeats 5
+words repeated 'aaabaaa', 4, 'aaaabaa', 3
+bound without repeats 19
+number of prefixes 14
+the prefixes are: aaaaaaa, aaaaabaaa, aaaabaa, aaaababa, aaaabbaa, aaabaaa, aaababaaa, aaabbaaa, aabaabaaa, aababaaa, abaaabaaa, abaabaaa, baaaabaaa, baaabaaa
+word: aaaabaab distance: 1
+exact neighborhood 23
+number of repeats 4
+words repeated 'aaabaab', 4, 'aaaabab', 2
+bound without repeats 20
+number of prefixes 16
+the prefixes are: aaaaaaab, aaaaaab, aaaaabaab, aaaabaa, aaaabab, aaaabbaab, aaaabbab, aaabaab, aaababaab, aaabbaab, aabaabaab, aababaab, abaaabaab, abaabaab, baaaabaab, baaabaab
+word: aaaababa distance: 1
+exact neighborhood 24
+number of repeats 3
+words repeated 'aaababa', 4
+bound without repeats 21
+number of prefixes 14
+the prefixes are: aaaaaaba, aaaaaba, aaaabaa, aaaabab, aaaabba, aaaabbba, aaababa, aaabbaba, aabaababa, aabababa, abaaababa, abaababa, baaaababa, baaababa
+word: aaaababb distance: 1
+exact neighborhood 23
+number of repeats 4
+words repeated 'aaababb', 4, 'aaaabab', 2
+bound without repeats 20
+number of prefixes 16
+the prefixes are: aaaaaabb, aaaaababb, aaaaabb, aaaabaab, aaaabab, aaaabbabb, aaaabbb, aaabababb, aaababb, aaabbabb, aabaababb, aabababb, abaaababb, abaababb, baaaababb, baaababb
+word: aaaabbaa distance: 1
+exact neighborhood 22
+number of repeats 5
+words repeated 'aaabbaa', 4, 'aaaabaa', 2, 'aaaabba', 2
+bound without repeats 19
+number of prefixes 15
+the prefixes are: aaaaabaa, aaaaabbaa, aaaabaa, aaaababaa, aaaabba, aaaabbba, aaababbaa, aaabbaa, aaabbbaa, aabaabbaa, aababbaa, abaaabbaa, abaabbaa, baaaabbaa, baaabbaa
+word: aaaabbab distance: 1
+exact neighborhood 23
+number of repeats 4
+words repeated 'aaabbab', 4, 'aaaabab', 2
+bound without repeats 20
+number of prefixes 15
+the prefixes are: aaaaabab, aaaaabbab, aaaabaab, aaaabab, aaaabba, aaaabbb, aaababbab, aaabbab, aaabbbab, aabaabbab, aababbab, abaaabbab, abaabbab, baaaabbab, baaabbab
+word: aaaabbba distance: 1
+exact neighborhood 22
+number of repeats 5
+words repeated 'aaabbba', 4, 'aaaabba', 3
+bound without repeats 19
+number of prefixes 15
+the prefixes are: aaaaabba, aaaaabbba, aaaababa, aaaababba, aaaabba, aaaabbb, aaababbba, aaabbba, aaabbbba, aabaabbba, aababbba, abaaabbba, abaabbba, baaaabbba, baaabbba
+word: aaaabbbb distance: 1
+exact neighborhood 21
+number of repeats 6
+words repeated 'aaabbbb', 4, 'aaaabbb', 4
+bound without repeats 18
+number of prefixes 12
+the prefixes are: aaaaabbb, aaaababb, aaaabbab, aaaabbb, aaababbbb, aaabbbb, aabaabbbb, aababbbb, abaaabbbb, abaabbbb, baaaabbbb, baaabbbb
+word: aaabaaaa distance: 1
+exact neighborhood 22
+number of repeats 5
+words repeated 'aabaaaa', 3, 'aaabaaa', 4
+bound without repeats 19
+number of prefixes 13
+the prefixes are: aaaaaaa, aaaabaaaa, aaabaaa, aaabaaba, aaababaa, aaabbaaa, aabaaaa, aababaaaa, aabbaaaa, abaabaaaa, ababaaaa, baaabaaaa, baabaaaa
+word: aaabaaab distance: 1
+exact neighborhood 23
+number of repeats 4
+words repeated 'aabaaab', 3, 'aaabaab', 3
+bound without repeats 20
+number of prefixes 16
+the prefixes are: aaaaaaab, aaaaaab, aaaabaaab, aaabaaa, aaabaab, aaababaab, aaababab, aaabbaaab, aaabbaab, aabaaab, aababaaab, aabbaaab, abaabaaab, ababaaab, baaabaaab, baabaaab
+word: aaabaaba distance: 1
+exact neighborhood 24
+number of repeats 3
+words repeated 'aabaaba', 3, 'aaababa', 2
+bound without repeats 21
+number of prefixes 16
+the prefixes are: aaaaaaba, aaaaaba, aaaabaaba, aaabaaa, aaabaab, aaababa, aaababba, aaabbaaba, aaabbaba, aabaaba, aababaaba, aabbaaba, abaabaaba, ababaaba, baaabaaba, baabaaba
+word: aaabaabb distance: 1
+exact neighborhood 23
+number of repeats 4
+words repeated 'aabaabb', 3, 'aaababb', 2, 'aaabaab', 2
+bound without repeats 20
+number of prefixes 16
+the prefixes are: aaaaaabb, aaaaabb, aaaabaabb, aaabaaab, aaabaab, aaabababb, aaababb, aaabbaabb, aaabbabb, aabaabb, aababaabb, aabbaabb, abaabaabb, ababaabb, baaabaabb, baabaabb
+word: aaababaa distance: 1
+exact neighborhood 24
+number of repeats 3
+words repeated 'aababaa', 3, 'aaababa', 2
+bound without repeats 21
+number of prefixes 17
+the prefixes are: aaaaabaa, aaaabaa, aaaababaa, aaabaaa, aaabaabaa, aaababa, aaababba, aaabbaa, aaabbabaa, aaabbbaa, aababaa, aabababaa, aabbabaa, abaababaa, abababaa, baaababaa, baababaa
+word: aaababab distance: 1
+exact neighborhood 25
+number of repeats 2
+words repeated 'aababab', 3
+bound without repeats 22
+number of prefixes 14
+the prefixes are: aaaaabab, aaaabab, aaabaaab, aaabaab, aaababa, aaababb, aaabbab, aaabbbab, aababab, aabbabab, abaababab, abababab, baaababab, baababab
+word: aaababba distance: 1
+exact neighborhood 24
+number of repeats 3
+words repeated 'aababba', 3, 'aaababa', 2
+bound without repeats 21
+number of prefixes 17
+the prefixes are: aaaaabba, aaaababba, aaaabba, aaabaaba, aaabaabba, aaababa, aaababb, aaabbabba, aaabbba, aaabbbba, aabababba, aababba, aabbabba, abaababba, abababba, baaababba, baababba
+word: aaababbb distance: 1
+exact neighborhood 23
+number of repeats 4
+words repeated 'aababbb', 3, 'aaababb', 3
+bound without repeats 20
+number of prefixes 15
+the prefixes are: aaaaabbb, aaaababbb, aaaabbb, aaabaabb, aaababab, aaababb, aaabbabbb, aaabbbb, aabababbb, aababbb, aabbabbb, abaababbb, abababbb, baaababbb, baababbb
+word: aaabbaaa distance: 1
+exact neighborhood 22
+number of repeats 5
+words repeated 'aabbaaa', 3, 'aaabaaa', 2, 'aaabbaa', 3
+bound without repeats 19
+number of prefixes 14
+the prefixes are: aaaabaaa, aaaabbaaa, aaabaaa, aaababaaa, aaabbaa, aaabbaba, aaabbbaa, aababbaaa, aabbaaa, aabbbaaa, abaabbaaa, ababbaaa, baaabbaaa, baabbaaa
+word: aaabbaab distance: 1
+exact neighborhood 23
+number of repeats 4
+words repeated 'aabbaab', 3, 'aaabaab', 2, 'aaabbab', 2
+bound without repeats 20
+number of prefixes 16
+the prefixes are: aaaabaab, aaaabbaab, aaabaaab, aaabaab, aaababaab, aaabbaa, aaabbab, aaabbbaab, aaabbbab, aababbaab, aabbaab, aabbbaab, abaabbaab, ababbaab, baaabbaab, baabbaab
+word: aaabbaba distance: 1
+exact neighborhood 24
+number of repeats 3
+words repeated 'aabbaba', 3, 'aaababa', 2
+bound without repeats 21
+number of prefixes 15
+the prefixes are: aaaababa, aaaabbaba, aaabaaba, aaababa, aaabbaa, aaabbab, aaabbba, aaabbbba, aababbaba, aabbaba, aabbbaba, abaabbaba, ababbaba, baaabbaba, baabbaba
+word: aaabbabb distance: 1
+exact neighborhood 23
+number of repeats 4
+words repeated 'aabbabb', 3, 'aaababb', 2, 'aaabbab', 2
+bound without repeats 20
+number of prefixes 16
+the prefixes are: aaaababb, aaaabbabb, aaabaabb, aaabababb, aaababb, aaabbaab, aaabbab, aaabbbabb, aaabbbb, aababbabb, aabbabb, aabbbabb, abaabbabb, ababbabb, baaabbabb, baabbabb
+word: aaabbbaa distance: 1
+exact neighborhood 22
+number of repeats 5
+words repeated 'aabbbaa', 3, 'aaabbaa', 3, 'aaabbba', 2
+bound without repeats 19
+number of prefixes 15
+the prefixes are: aaaabbaa, aaaabbbaa, aaababaa, aaababbaa, aaabbaa, aaabbabaa, aaabbba, aaabbbba, aababbbaa, aabbbaa, aabbbbaa, abaabbbaa, ababbbaa, baaabbbaa, baabbbaa
+word: aaabbbab distance: 1
+exact neighborhood 23
+number of repeats 4
+words repeated 'aabbbab', 3, 'aaabbab', 3
+bound without repeats 20
+number of prefixes 15
+the prefixes are: aaaabbab, aaaabbbab, aaababab, aaababbab, aaabbaab, aaabbab, aaabbba, aaabbbb, aababbbab, aabbbab, aabbbbab, abaabbbab, ababbbab, baaabbbab, baabbbab
+word: aaabbbba distance: 1
+exact neighborhood 22
+number of repeats 5
+words repeated 'aabbbba', 3, 'aaabbba', 4
+bound without repeats 19
+number of prefixes 15
+the prefixes are: aaaabbba, aaaabbbba, aaababba, aaababbba, aaabbaba, aaabbabba, aaabbba, aaabbbb, aababbbba, aabbbba, aabbbbba, abaabbbba, ababbbba, baaabbbba, baabbbba
+word: aaabbbbb distance: 1
+exact neighborhood 21
+number of repeats 6
+words repeated 'aabbbbb', 3, 'aaabbbb', 5
+bound without repeats 18
+number of prefixes 11
+the prefixes are: aaaabbbb, aaababbb, aaabbabb, aaabbbab, aaabbbb, aababbbbb, aabbbbb, abaabbbbb, ababbbbb, baaabbbbb, baabbbbb
+word: aabaaaaa distance: 1
+exact neighborhood 22
+number of repeats 5
+words repeated 'abaaaaa', 2, 'aabaaaa', 5
+bound without repeats 19
+number of prefixes 12
+the prefixes are: aaaaaaa, aaabaaaaa, aabaaaa, aabaaaba, aabaabaa, aababaaa, aabbaaaa, abaaaaa, ababaaaaa, abbaaaaa, baabaaaaa, babaaaaa
+word: aabaaaab distance: 1
+exact neighborhood 23
+number of repeats 4
+words repeated 'abaaaab', 2, 'aabaaab', 4
+bound without repeats 20
+number of prefixes 16
+the prefixes are: aaaaaaab, aaaaaab, aaabaaaab, aabaaaa, aabaaab, aabaabaab, aabaabab, aababaaab, aababaab, aabbaaaab, aabbaaab, abaaaab, ababaaaab, abbaaaab, baabaaaab, babaaaab
+word: aabaaaba distance: 1
+exact neighborhood 24
+number of repeats 3
+words repeated 'abaaaba', 2, 'aabaaba', 3
+bound without repeats 21
+number of prefixes 16
+the prefixes are: aaaaaaba, aaaaaba, aaabaaaba, aabaaaa, aabaaab, aabaaba, aabaabba, aababaaba, aabababa, aabbaaaba, aabbaaba, abaaaba, ababaaaba, abbaaaba, baabaaaba, babaaaba
+word: aabaaabb distance: 1
+exact neighborhood 23
+number of repeats 4
+words repeated 'abaaabb', 2, 'aabaabb', 3, 'aabaaab', 2
+bound without repeats 20
+number of prefixes 16
+the prefixes are: aaaaaabb, aaaaabb, aaabaaabb, aabaaaab, aabaaab, aabaababb, aabaabb, aababaabb, aabababb, aabbaaabb, aabbaabb, abaaabb, ababaaabb, abbaaabb, baabaaabb, babaaabb
+word: aabaabaa distance: 1
+exact neighborhood 24
+number of repeats 3
+words repeated 'abaabaa', 2, 'aababaa', 2, 'aabaaba', 2
+bound without repeats 21
+number of prefixes 17
+the prefixes are: aaaaabaa, aaaabaa, aaabaabaa, aabaaaa, aabaaabaa, aabaaba, aabaabba, aababaa, aabababaa, aababbaa, aabbaabaa, aabbabaa, abaabaa, ababaabaa, abbaabaa, baabaabaa, babaabaa
+word: aabaabab distance: 1
+exact neighborhood 25
+number of repeats 2
+words repeated 'abaabab', 2, 'aababab', 2
+bound without repeats 22
+number of prefixes 16
+the prefixes are: aaaaabab, aaaabab, aaabaabab, aabaaaab, aabaaab, aabaaba, aabaabb, aababab, aababbab, aabbaabab, aabbabab, abaabab, ababaabab, abbaabab, baabaabab, babaabab
+word: aabaabba distance: 1
+exact neighborhood 24
+number of repeats 3
+words repeated 'abaabba', 2, 'aababba', 2, 'aabaaba', 2
+bound without repeats 21
+number of prefixes 17
+the prefixes are: aaaaabba, aaaabba, aaabaabba, aabaaaba, aabaaabba, aabaaba, aabaabb, aabababba, aababba, aababbba, aabbaabba, aabbabba, abaabba, ababaabba, abbaabba, baabaabba, babaabba
+word: aabaabbb distance: 1
+exact neighborhood 23
+number of repeats 4
+words repeated 'abaabbb', 2, 'aababbb', 2, 'aabaabb', 3
+bound without repeats 20
+number of prefixes 15
+the prefixes are: aaaaabbb, aaaabbb, aaabaabbb, aabaaabb, aabaabab, aabaabb, aabababbb, aababbb, aabbaabbb, aabbabbb, abaabbb, ababaabbb, abbaabbb, baabaabbb, babaabbb
+word: aababaaa distance: 1
+exact neighborhood 24
+number of repeats 3
+words repeated 'ababaaa', 2, 'aababaa', 3
+bound without repeats 21
+number of prefixes 16
+the prefixes are: aaaabaaa, aaabaaa, aaababaaa, aabaaaa, aabaabaaa, aababaa, aabababa, aababbaa, aabbaaa, aabbabaaa, aabbbaaa, ababaaa, abababaaa, abbabaaa, baababaaa, bababaaa
+word: aababaab distance: 1
+exact neighborhood 25
+number of repeats 2
+words repeated 'ababaab', 2, 'aababab', 2
+bound without repeats 22
+number of prefixes 18
+the prefixes are: aaaabaab, aaabaab, aaababaab, aabaaaab, aabaaab, aabaabaab, aababaa, aababab, aababbaab, aababbab, aabbaab, aabbabaab, aabbbaab, ababaab, abababaab, abbabaab, baababaab, bababaab
+word: aabababa distance: 1
+exact neighborhood 26
+number of repeats 1
+words repeated 'abababa', 2
+bound without repeats 23
+number of prefixes 14
+the prefixes are: aaaababa, aaababa, aabaaaba, aabaaba, aababaa, aababab, aababba, aababbba, aabbaba, aabbbaba, abababa, abbababa, baabababa, babababa
+word: aabababb distance: 1
+exact neighborhood 25
+number of repeats 2
+words repeated 'abababb', 2, 'aababab', 2
+bound without repeats 22
+number of prefixes 18
+the prefixes are: aaaababb, aaabababb, aaababb, aabaaabb, aabaababb, aabaabb, aababaab, aababab, aababbabb, aababbb, aabbababb, aabbabb, aabbbabb, ababababb, abababb, abbababb, baabababb, babababb
+word: aababbaa distance: 1
+exact neighborhood 24
+number of repeats 3
+words repeated 'ababbaa', 2, 'aababaa', 2, 'aababba', 2
+bound without repeats 21
+number of prefixes 17
+the prefixes are: aaaabbaa, aaababbaa, aaabbaa, aabaabaa, aabaabbaa, aababaa, aabababaa, aababba, aababbba, aabbabbaa, aabbbaa, aabbbbaa, abababbaa, ababbaa, abbabbaa, baababbaa, bababbaa
+word: aababbab distance: 1
+exact neighborhood 25
+number of repeats 2
+words repeated 'ababbab', 2, 'aababab', 2
+bound without repeats 22
+number of prefixes 17
+the prefixes are: aaaabbab, aaababbab, aaabbab, aabaabab, aabaabbab, aababaab, aababab, aababba, aababbb, aabbabbab, aabbbab, aabbbbab, abababbab, ababbab, abbabbab, baababbab, bababbab
+word: aababbba distance: 1
+exact neighborhood 24
+number of repeats 3
+words repeated 'ababbba', 2, 'aababba', 3
+bound without repeats 21
+number of prefixes 17
+the prefixes are: aaaabbba, aaababbba, aaabbba, aabaabba, aabaabbba, aabababa, aabababba, aababba, aababbb, aabbabbba, aabbbba, aabbbbba, abababbba, ababbba, abbabbba, baababbba, bababbba
+word: aababbbb distance: 1
+exact neighborhood 23
+number of repeats 4
+words repeated 'ababbbb', 2, 'aababbb', 4
+bound without repeats 20
+number of prefixes 14
+the prefixes are: aaaabbbb, aaababbbb, aaabbbb, aabaabbb, aabababb, aababbab, aababbb, aabbabbbb, aabbbbb, abababbbb, ababbbb, abbabbbb, baababbbb, bababbbb
+word: aabbaaaa distance: 1
+exact neighborhood 22
+number of repeats 5
+words repeated 'abbaaaa', 2, 'aabaaaa', 2, 'aabbaaa', 4
+bound without repeats 19
+number of prefixes 13
+the prefixes are: aaabaaaa, aaabbaaaa, aabaaaa, aababaaaa, aabbaaa, aabbaaba, aabbabaa, aabbbaaa, ababbaaaa, abbaaaa, abbbaaaa, baabbaaaa, babbaaaa
+word: aabbaaab distance: 1
+exact neighborhood 23
+number of repeats 4
+words repeated 'abbaaab', 2, 'aabaaab', 2, 'aabbaab', 3
+bound without repeats 20
+number of prefixes 16
+the prefixes are: aaabaaab, aaabbaaab, aabaaaab, aabaaab, aababaaab, aabbaaa, aabbaab, aabbabaab, aabbabab, aabbbaaab, aabbbaab, ababbaaab, abbaaab, abbbaaab, baabbaaab, babbaaab
+word: aabbaaba distance: 1
+exact neighborhood 24
+number of repeats 3
+words repeated 'abbaaba', 2, 'aabaaba', 2, 'aabbaba', 2
+bound without repeats 21
+number of prefixes 16
+the prefixes are: aaabaaba, aaabbaaba, aabaaaba, aabaaba, aababaaba, aabbaaa, aabbaab, aabbaba, aabbabba, aabbbaaba, aabbbaba, ababbaaba, abbaaba, abbbaaba, baabbaaba, babbaaba
+word: aabbaabb distance: 1
+exact neighborhood 23
+number of repeats 4
+words repeated 'abbaabb', 2, 'aabaabb', 2, 'aabbabb', 2, 'aabbaab', 2
+bound without repeats 20
+number of prefixes 16
+the prefixes are: aaabaabb, aaabbaabb, aabaaabb, aabaabb, aababaabb, aabbaaab, aabbaab, aabbababb, aabbabb, aabbbaabb, aabbbabb, ababbaabb, abbaabb, abbbaabb, baabbaabb, babbaabb
+word: aabbabaa distance: 1
+exact neighborhood 24
+number of repeats 3
+words repeated 'abbabaa', 2, 'aababaa', 2, 'aabbaba', 2
+bound without repeats 21
+number of prefixes 17
+the prefixes are: aaababaa, aaabbabaa, aabaabaa, aababaa, aabababaa, aabbaaa, aabbaabaa, aabbaba, aabbabba, aabbbaa, aabbbabaa, aabbbbaa, ababbabaa, abbabaa, abbbabaa, baabbabaa, babbabaa
+word: aabbabab distance: 1
+exact neighborhood 25
+number of repeats 2
+words repeated 'abbabab', 2, 'aababab', 2
+bound without repeats 22
+number of prefixes 15
+the prefixes are: aaababab, aaabbabab, aabaabab, aababab, aabbaaab, aabbaab, aabbaba, aabbabb, aabbbab, aabbbbab, ababbabab, abbabab, abbbabab, baabbabab, babbabab
+word: aabbabba distance: 1
+exact neighborhood 24
+number of repeats 3
+words repeated 'abbabba', 2, 'aababba', 2, 'aabbaba', 2
+bound without repeats 21
+number of prefixes 17
+the prefixes are: aaababba, aaabbabba, aabaabba, aabababba, aababba, aabbaaba, aabbaabba, aabbaba, aabbabb, aabbbabba, aabbbba, aabbbbba, ababbabba, abbabba, abbbabba, baabbabba, babbabba
+word: aabbabbb distance: 1
+exact neighborhood 23
+number of repeats 4
+words repeated 'abbabbb', 2, 'aababbb', 2, 'aabbabb', 3
+bound without repeats 20
+number of prefixes 15
+the prefixes are: aaababbb, aaabbabbb, aabaabbb, aabababbb, aababbb, aabbaabb, aabbabab, aabbabb, aabbbabbb, aabbbbb, ababbabbb, abbabbb, abbbabbb, baabbabbb, babbabbb
+word: aabbbaaa distance: 1
+exact neighborhood 22
+number of repeats 5
+words repeated 'abbbaaa', 2, 'aabbaaa', 3, 'aabbbaa', 3
+bound without repeats 19
+number of prefixes 14
+the prefixes are: aaabbaaa, aaabbbaaa, aababaaa, aababbaaa, aabbaaa, aabbabaaa, aabbbaa, aabbbaba, aabbbbaa, ababbbaaa, abbbaaa, abbbbaaa, baabbbaaa, babbbaaa
+word: aabbbaab distance: 1
+exact neighborhood 23
+number of repeats 4
+words repeated 'abbbaab', 2, 'aabbaab', 3, 'aabbbab', 2
+bound without repeats 20
+number of prefixes 16
+the prefixes are: aaabbaab, aaabbbaab, aababaab, aababbaab, aabbaaab, aabbaab, aabbabaab, aabbbaa, aabbbab, aabbbbaab, aabbbbab, ababbbaab, abbbaab, abbbbaab, baabbbaab, babbbaab
+word: aabbbaba distance: 1
+exact neighborhood 24
+number of repeats 3
+words repeated 'abbbaba', 2, 'aabbaba', 3
+bound without repeats 21
+number of prefixes 15
+the prefixes are: aaabbaba, aaabbbaba, aabababa, aababbaba, aabbaaba, aabbaba, aabbbaa, aabbbab, aabbbba, aabbbbba, ababbbaba, abbbaba, abbbbaba, baabbbaba, babbbaba
+word: aabbbabb distance: 1
+exact neighborhood 23
+number of repeats 4
+words repeated 'abbbabb', 2, 'aabbabb', 3, 'aabbbab', 2
+bound without repeats 20
+number of prefixes 16
+the prefixes are: aaabbabb, aaabbbabb, aabababb, aababbabb, aabbaabb, aabbababb, aabbabb, aabbbaab, aabbbab, aabbbbabb, aabbbbb, ababbbabb, abbbabb, abbbbabb, baabbbabb, babbbabb
+word: aabbbbaa distance: 1
+exact neighborhood 22
+number of repeats 5
+words repeated 'abbbbaa', 2, 'aabbbaa', 4, 'aabbbba', 2
+bound without repeats 19
+number of prefixes 15
+the prefixes are: aaabbbaa, aaabbbbaa, aababbaa, aababbbaa, aabbabaa, aabbabbaa, aabbbaa, aabbbabaa, aabbbba, aabbbbba, ababbbbaa, abbbbaa, abbbbbaa, baabbbbaa, babbbbaa
+word: aabbbbab distance: 1
+exact neighborhood 23
+number of repeats 4
+words repeated 'abbbbab', 2, 'aabbbab', 4
+bound without repeats 20
+number of prefixes 15
+the prefixes are: aaabbbab, aaabbbbab, aababbab, aababbbab, aabbabab, aabbabbab, aabbbaab, aabbbab, aabbbba, aabbbbb, ababbbbab, abbbbab, abbbbbab, baabbbbab, babbbbab
+word: aabbbbba distance: 1
+exact neighborhood 22
+number of repeats 5
+words repeated 'abbbbba', 2, 'aabbbba', 5
+bound without repeats 19
+number of prefixes 15
+the prefixes are: aaabbbba, aaabbbbba, aababbba, aababbbba, aabbabba, aabbabbba, aabbbaba, aabbbabba, aabbbba, aabbbbb, ababbbbba, abbbbba, abbbbbba, baabbbbba, babbbbba
+word: aabbbbbb distance: 1
+exact neighborhood 21
+number of repeats 6
+words repeated 'abbbbbb', 2, 'aabbbbb', 6
+bound without repeats 18
+number of prefixes 10
+the prefixes are: aaabbbbb, aababbbb, aabbabbb, aabbbabb, aabbbbab, aabbbbb, ababbbbbb, abbbbbb, baabbbbbb, babbbbbb
+word: abaaaaaa distance: 1
+exact neighborhood 22
+number of repeats 5
+words repeated 'abaaaaa', 6
+bound without repeats 19
+number of prefixes 11
+the prefixes are: aaaaaaa, aabaaaaaa, abaaaaa, abaaaaba, abaaabaa, abaabaaa, ababaaaa, abbaaaaa, baaaaaa, babaaaaaa, bbaaaaaa
+word: abaaaaab distance: 1
+exact neighborhood 23
+number of repeats 4
+words repeated 'abaaaab', 5
+bound without repeats 20
+number of prefixes 16
+the prefixes are: aaaaaaab, aaaaaab, aabaaaaab, abaaaaa, abaaaab, abaaabaab, abaaabab, abaabaaab, abaabaab, ababaaaab, ababaaab, abbaaaaab, abbaaaab, baaaaab, babaaaaab, bbaaaaab
+word: abaaaaba distance: 1
+exact neighborhood 24
+number of repeats 3
+words repeated 'abaaaba', 4
+bound without repeats 21
+number of prefixes 16
+the prefixes are: aaaaaaba, aaaaaba, aabaaaaba, abaaaaa, abaaaab, abaaaba, abaaabba, abaabaaba, abaababa, ababaaaba, ababaaba, abbaaaaba, abbaaaba, baaaaba, babaaaaba, bbaaaaba
+word: abaaaabb distance: 1
+exact neighborhood 23
+number of repeats 4
+words repeated 'abaaabb', 4, 'abaaaab', 2
+bound without repeats 20
+number of prefixes 16
+the prefixes are: aaaaaabb, aaaaabb, aabaaaabb, abaaaaab, abaaaab, abaaababb, abaaabb, abaabaabb, abaababb, ababaaabb, ababaabb, abbaaaabb, abbaaabb, baaaabb, babaaaabb, bbaaaabb
+word: abaaabaa distance: 1
+exact neighborhood 24
+number of repeats 3
+words repeated 'abaabaa', 3, 'abaaaba', 2
+bound without repeats 21
+number of prefixes 17
+the prefixes are: aaaaabaa, aaaabaa, aabaaabaa, abaaaaa, abaaaabaa, abaaaba, abaaabba, abaabaa, abaababaa, abaabbaa, ababaabaa, abababaa, abbaaabaa, abbaabaa, baaabaa, babaaabaa, bbaaabaa
+word: abaaabab distance: 1
+exact neighborhood 25
+number of repeats 2
+words repeated 'abaabab', 3
+bound without repeats 22
+number of prefixes 16
+the prefixes are: aaaaabab, aaaabab, aabaaabab, abaaaaab, abaaaab, abaaaba, abaaabb, abaabab, abaabbab, ababaabab, abababab, abbaaabab, abbaabab, baaabab, babaaabab, bbaaabab
+word: abaaabba distance: 1
+exact neighborhood 24
+number of repeats 3
+words repeated 'abaabba', 3, 'abaaaba', 2
+bound without repeats 21
+number of prefixes 17
+the prefixes are: aaaaabba, aaaabba, aabaaabba, abaaaaba, abaaaabba, abaaaba, abaaabb, abaababba, abaabba, abaabbba, ababaabba, abababba, abbaaabba, abbaabba, baaabba, babaaabba, bbaaabba
+word: abaaabbb distance: 1
+exact neighborhood 23
+number of repeats 4
+words repeated 'abaabbb', 3, 'abaaabb', 3
+bound without repeats 20
+number of prefixes 15
+the prefixes are: aaaaabbb, aaaabbb, aabaaabbb, abaaaabb, abaaabab, abaaabb, abaababbb, abaabbb, ababaabbb, abababbb, abbaaabbb, abbaabbb, baaabbb, babaaabbb, bbaaabbb
+word: abaabaaa distance: 1
+exact neighborhood 24
+number of repeats 3
+words repeated 'ababaaa', 2, 'abaabaa', 3
+bound without repeats 21
+number of prefixes 16
+the prefixes are: aaaabaaa, aaabaaa, aabaabaaa, abaaaaa, abaaabaaa, abaabaa, abaababa, abaabbaa, ababaaa, abababaaa, ababbaaa, abbaabaaa, abbabaaa, baabaaa, babaabaaa, bbaabaaa
+word: abaabaab distance: 1
+exact neighborhood 25
+number of repeats 2
+words repeated 'ababaab', 2, 'abaabab', 2
+bound without repeats 22
+number of prefixes 18
+the prefixes are: aaaabaab, aaabaab, aabaabaab, abaaaaab, abaaaab, abaaabaab, abaabaa, abaabab, abaabbaab, abaabbab, ababaab, abababaab, ababbaab, abbaabaab, abbabaab, baabaab, babaabaab, bbaabaab
+word: abaababa distance: 1
+exact neighborhood 26
+number of repeats 1
+words repeated 'abababa', 2
+bound without repeats 23
+number of prefixes 16
+the prefixes are: aaaababa, aaababa, aabaababa, abaaaaba, abaaaba, abaabaa, abaabab, abaabba, abaabbba, abababa, ababbaba, abbaababa, abbababa, baababa, babaababa, bbaababa
+word: abaababb distance: 1
+exact neighborhood 25
+number of repeats 2
+words repeated 'abababb', 2, 'abaabab', 2
+bound without repeats 22
+number of prefixes 18
+the prefixes are: aaaababb, aaababb, aabaababb, abaaaabb, abaaababb, abaaabb, abaabaab, abaabab, abaabbabb, abaabbb, ababababb, abababb, ababbabb, abbaababb, abbababb, baababb, babaababb, bbaababb
+word: abaabbaa distance: 1
+exact neighborhood 24
+number of repeats 3
+words repeated 'ababbaa', 2, 'abaabaa', 2, 'abaabba', 2
+bound without repeats 21
+number of prefixes 17
+the prefixes are: aaaabbaa, aaabbaa, aabaabbaa, abaaabaa, abaaabbaa, abaabaa, abaababaa, abaabba, abaabbba, abababbaa, ababbaa, ababbbaa, abbaabbaa, abbabbaa, baabbaa, babaabbaa, bbaabbaa
+word: abaabbab distance: 1
+exact neighborhood 25
+number of repeats 2
+words repeated 'ababbab', 2, 'abaabab', 2
+bound without repeats 22
+number of prefixes 17
+the prefixes are: aaaabbab, aaabbab, aabaabbab, abaaabab, abaaabbab, abaabaab, abaabab, abaabba, abaabbb, abababbab, ababbab, ababbbab, abbaabbab, abbabbab, baabbab, babaabbab, bbaabbab
+word: abaabbba distance: 1
+exact neighborhood 24
+number of repeats 3
+words repeated 'ababbba', 2, 'abaabba', 3
+bound without repeats 21
+number of prefixes 17
+the prefixes are: aaaabbba, aaabbba, aabaabbba, abaaabba, abaaabbba, abaababa, abaababba, abaabba, abaabbb, abababbba, ababbba, ababbbba, abbaabbba, abbabbba, baabbba, babaabbba, bbaabbba
+word: abaabbbb distance: 1
+exact neighborhood 23
+number of repeats 4
+words repeated 'ababbbb', 2, 'abaabbb', 4
+bound without repeats 20
+number of prefixes 14
+the prefixes are: aaaabbbb, aaabbbb, aabaabbbb, abaaabbb, abaababb, abaabbab, abaabbb, abababbbb, ababbbb, abbaabbbb, abbabbbb, baabbbb, babaabbbb, bbaabbbb
+word: ababaaaa distance: 1
+exact neighborhood 24
+number of repeats 3
+words repeated 'ababaaa', 4
+bound without repeats 21
+number of prefixes 15
+the prefixes are: aaabaaaa, aabaaaa, aababaaaa, abaaaaa, abaabaaaa, ababaaa, ababaaba, abababaa, ababbaaa, abbaaaa, abbabaaaa, abbbaaaa, babaaaa, bababaaaa, bbabaaaa
+word: ababaaab distance: 1
+exact neighborhood 25
+number of repeats 2
+words repeated 'ababaab', 3
+bound without repeats 22
+number of prefixes 18
+the prefixes are: aaabaaab, aabaaab, aababaaab, abaaaaab, abaaaab, abaabaaab, ababaaa, ababaab, abababaab, abababab, ababbaaab, ababbaab, abbaaab, abbabaaab, abbbaaab, babaaab, bababaaab, bbabaaab
+word: ababaaba distance: 1
+exact neighborhood 26
+number of repeats 1
+words repeated 'abababa', 2
+bound without repeats 23
+number of prefixes 18
+the prefixes are: aaabaaba, aabaaba, aababaaba, abaaaaba, abaaaba, abaabaaba, ababaaa, ababaab, abababa, abababba, ababbaaba, ababbaba, abbaaba, abbabaaba, abbbaaba, babaaba, bababaaba, bbabaaba
+word: ababaabb distance: 1
+exact neighborhood 25
+number of repeats 2
+words repeated 'abababb', 2, 'ababaab', 2
+bound without repeats 22
+number of prefixes 18
+the prefixes are: aaabaabb, aabaabb, aababaabb, abaaaabb, abaaabb, abaabaabb, ababaaab, ababaab, ababababb, abababb, ababbaabb, ababbabb, abbaabb, abbabaabb, abbbaabb, babaabb, bababaabb, bbabaabb
+word: abababaa distance: 1
+exact neighborhood 26
+number of repeats 1
+words repeated 'abababa', 2
+bound without repeats 23
+number of prefixes 19
+the prefixes are: aaababaa, aababaa, aabababaa, abaaabaa, abaabaa, abaababaa, ababaaa, ababaabaa, abababa, abababba, ababbaa, ababbabaa, ababbbaa, abbabaa, abbababaa, abbbabaa, bababaa, babababaa, bbababaa
+word: abababab distance: 1
+exact neighborhood 27
+number of repeats 0
+words repeated 
+bound without repeats 24
+number of prefixes 14
+the prefixes are: aaababab, aababab, abaaabab, abaabab, ababaaab, ababaab, abababa, abababb, ababbab, ababbbab, abbabab, abbbabab, bababab, bbababab
+word: abababba distance: 1
+exact neighborhood 26
+number of repeats 1
+words repeated 'abababa', 2
+bound without repeats 23
+number of prefixes 19
+the prefixes are: aaababba, aabababba, aababba, abaaabba, abaababba, abaabba, ababaaba, ababaabba, abababa, abababb, ababbabba, ababbba, ababbbba, abbababba, abbabba, abbbabba, babababba, bababba, bbababba
+word: abababbb distance: 1
+exact neighborhood 25
+number of repeats 2
+words repeated 'abababb', 3
+bound without repeats 22
+number of prefixes 17
+the prefixes are: aaababbb, aabababbb, aababbb, abaaabbb, abaababbb, abaabbb, ababaabb, abababab, abababb, ababbabbb, ababbbb, abbababbb, abbabbb, abbbabbb, babababbb, bababbb, bbababbb
+word: ababbaaa distance: 1
+exact neighborhood 24
+number of repeats 3
+words repeated 'ababaaa', 2, 'ababbaa', 3
+bound without repeats 21
+number of prefixes 16
+the prefixes are: aaabbaaa, aababbaaa, aabbaaa, abaabaaa, abaabbaaa, ababaaa, abababaaa, ababbaa, ababbaba, ababbbaa, abbabbaaa, abbbaaa, abbbbaaa, bababbaaa, babbaaa, bbabbaaa
+word: ababbaab distance: 1
+exact neighborhood 25
+number of repeats 2
+words repeated 'ababaab', 2, 'ababbab', 2
+bound without repeats 22
+number of prefixes 18
+the prefixes are: aaabbaab, aababbaab, aabbaab, abaabaab, abaabbaab, ababaaab, ababaab, abababaab, ababbaa, ababbab, ababbbaab, ababbbab, abbabbaab, abbbaab, abbbbaab, bababbaab, babbaab, bbabbaab
+word: ababbaba distance: 1
+exact neighborhood 26
+number of repeats 1
+words repeated 'abababa', 2
+bound without repeats 23
+number of prefixes 17
+the prefixes are: aaabbaba, aababbaba, aabbaba, abaababa, abaabbaba, ababaaba, abababa, ababbaa, ababbab, ababbba, ababbbba, abbabbaba, abbbaba, abbbbaba, bababbaba, babbaba, bbabbaba
+word: ababbabb distance: 1
+exact neighborhood 25
+number of repeats 2
+words repeated 'abababb', 2, 'ababbab', 2
+bound without repeats 22
+number of prefixes 18
+the prefixes are: aaabbabb, aababbabb, aabbabb, abaababb, abaabbabb, ababaabb, ababababb, abababb, ababbaab, ababbab, ababbbabb, ababbbb, abbabbabb, abbbabb, abbbbabb, bababbabb, babbabb, bbabbabb
+word: ababbbaa distance: 1
+exact neighborhood 24
+number of repeats 3
+words repeated 'ababbaa', 3, 'ababbba', 2
+bound without repeats 21
+number of prefixes 17
+the prefixes are: aaabbbaa, aababbbaa, aabbbaa, abaabbaa, abaabbbaa, abababaa, abababbaa, ababbaa, ababbabaa, ababbba, ababbbba, abbabbbaa, abbbbaa, abbbbbaa, bababbbaa, babbbaa, bbabbbaa
+word: ababbbab distance: 1
+exact neighborhood 25
+number of repeats 2
+words repeated 'ababbab', 3
+bound without repeats 22
+number of prefixes 17
+the prefixes are: aaabbbab, aababbbab, aabbbab, abaabbab, abaabbbab, abababab, abababbab, ababbaab, ababbab, ababbba, ababbbb, abbabbbab, abbbbab, abbbbbab, bababbbab, babbbab, bbabbbab
+word: ababbbba distance: 1
+exact neighborhood 24
+number of repeats 3
+words repeated 'ababbba', 4
+bound without repeats 21
+number of prefixes 17
+the prefixes are: aaabbbba, aababbbba, aabbbba, abaabbba, abaabbbba, abababba, abababbba, ababbaba, ababbabba, ababbba, ababbbb, abbabbbba, abbbbba, abbbbbba, bababbbba, babbbba, bbabbbba
+word: ababbbbb distance: 1
+exact neighborhood 23
+number of repeats 4
+words repeated 'ababbbb', 5
+bound without repeats 20
+number of prefixes 13
+the prefixes are: aaabbbbb, aababbbbb, aabbbbb, abaabbbb, abababbb, ababbabb, ababbbab, ababbbb, abbabbbbb, abbbbbb, bababbbbb, babbbbb, bbabbbbb
+word: abbaaaaa distance: 1
+exact neighborhood 22
+number of repeats 5
+words repeated 'abaaaaa', 2, 'abbaaaa', 5
+bound without repeats 19
+number of prefixes 12
+the prefixes are: aabaaaaa, aabbaaaaa, abaaaaa, ababaaaaa, abbaaaa, abbaaaba, abbaabaa, abbabaaa, abbbaaaa, babbaaaaa, bbaaaaa, bbbaaaaa
+word: abbaaaab distance: 1
+exact neighborhood 23
+number of repeats 4
+words repeated 'abaaaab', 2, 'abbaaab', 4
+bound without repeats 20
+number of prefixes 16
+the prefixes are: aabaaaab, aabbaaaab, abaaaaab, abaaaab, ababaaaab, abbaaaa, abbaaab, abbaabaab, abbaabab, abbabaaab, abbabaab, abbbaaaab, abbbaaab, babbaaaab, bbaaaab, bbbaaaab
+word: abbaaaba distance: 1
+exact neighborhood 24
+number of repeats 3
+words repeated 'abaaaba', 2, 'abbaaba', 3
+bound without repeats 21
+number of prefixes 16
+the prefixes are: aabaaaba, aabbaaaba, abaaaaba, abaaaba, ababaaaba, abbaaaa, abbaaab, abbaaba, abbaabba, abbabaaba, abbababa, abbbaaaba, abbbaaba, babbaaaba, bbaaaba, bbbaaaba
+word: abbaaabb distance: 1
+exact neighborhood 23
+number of repeats 4
+words repeated 'abaaabb', 2, 'abbaabb', 3, 'abbaaab', 2
+bound without repeats 20
+number of prefixes 16
+the prefixes are: aabaaabb, aabbaaabb, abaaaabb, abaaabb, ababaaabb, abbaaaab, abbaaab, abbaababb, abbaabb, abbabaabb, abbababb, abbbaaabb, abbbaabb, babbaaabb, bbaaabb, bbbaaabb
+word: abbaabaa distance: 1
+exact neighborhood 24
+number of repeats 3
+words repeated 'abaabaa', 2, 'abbabaa', 2, 'abbaaba', 2
+bound without repeats 21
+number of prefixes 17
+the prefixes are: aabaabaa, aabbaabaa, abaaabaa, abaabaa, ababaabaa, abbaaaa, abbaaabaa, abbaaba, abbaabba, abbabaa, abbababaa, abbabbaa, abbbaabaa, abbbabaa, babbaabaa, bbaabaa, bbbaabaa
+word: abbaabab distance: 1
+exact neighborhood 25
+number of repeats 2
+words repeated 'abaabab', 2, 'abbabab', 2
+bound without repeats 22
+number of prefixes 16
+the prefixes are: aabaabab, aabbaabab, abaaabab, abaabab, ababaabab, abbaaaab, abbaaab, abbaaba, abbaabb, abbabab, abbabbab, abbbaabab, abbbabab, babbaabab, bbaabab, bbbaabab
+word: abbaabba distance: 1
+exact neighborhood 24
+number of repeats 3
+words repeated 'abaabba', 2, 'abbabba', 2, 'abbaaba', 2
+bound without repeats 21
+number of prefixes 17
+the prefixes are: aabaabba, aabbaabba, abaaabba, abaabba, ababaabba, abbaaaba, abbaaabba, abbaaba, abbaabb, abbababba, abbabba, abbabbba, abbbaabba, abbbabba, babbaabba, bbaabba, bbbaabba
+word: abbaabbb distance: 1
+exact neighborhood 23
+number of repeats 4
+words repeated 'abaabbb', 2, 'abbabbb', 2, 'abbaabb', 3
+bound without repeats 20
+number of prefixes 15
+the prefixes are: aabaabbb, aabbaabbb, abaaabbb, abaabbb, ababaabbb, abbaaabb, abbaabab, abbaabb, abbababbb, abbabbb, abbbaabbb, abbbabbb, babbaabbb, bbaabbb, bbbaabbb
+word: abbabaaa distance: 1
+exact neighborhood 24
+number of repeats 3
+words repeated 'ababaaa', 2, 'abbabaa', 3
+bound without repeats 21
+number of prefixes 16
+the prefixes are: aababaaa, aabbabaaa, abaabaaa, ababaaa, abababaaa, abbaaaa, abbaabaaa, abbabaa, abbababa, abbabbaa, abbbaaa, abbbabaaa, abbbbaaa, babbabaaa, bbabaaa, bbbabaaa
+word: abbabaab distance: 1
+exact neighborhood 25
+number of repeats 2
+words repeated 'ababaab', 2, 'abbabab', 2
+bound without repeats 22
+number of prefixes 18
+the prefixes are: aababaab, aabbabaab, abaabaab, ababaab, abababaab, abbaaaab, abbaaab, abbaabaab, abbabaa, abbabab, abbabbaab, abbabbab, abbbaab, abbbabaab, abbbbaab, babbabaab, bbabaab, bbbabaab
+word: abbababa distance: 1
+exact neighborhood 26
+number of repeats 1
+words repeated 'abababa', 2
+bound without repeats 23
+number of prefixes 15
+the prefixes are: aabababa, aabbababa, abaababa, abababa, abbaaaba, abbaaba, abbabaa, abbabab, abbabba, abbabbba, abbbaba, abbbbaba, babbababa, bbababa, bbbababa
+word: abbababb distance: 1
+exact neighborhood 25
+number of repeats 2
+words repeated 'abababb', 2, 'abbabab', 2
+bound without repeats 22
+number of prefixes 18
+the prefixes are: aabababb, aabbababb, abaababb, ababababb, abababb, abbaaabb, abbaababb, abbaabb, abbabaab, abbabab, abbabbabb, abbabbb, abbbababb, abbbabb, abbbbabb, babbababb, bbababb, bbbababb
+word: abbabbaa distance: 1
+exact neighborhood 24
+number of repeats 3
+words repeated 'ababbaa', 2, 'abbabaa', 2, 'abbabba', 2
+bound without repeats 21
+number of prefixes 17
+the prefixes are: aababbaa, aabbabbaa, abaabbaa, abababbaa, ababbaa, abbaabaa, abbaabbaa, abbabaa, abbababaa, abbabba, abbabbba, abbbabbaa, abbbbaa, abbbbbaa, babbabbaa, bbabbaa, bbbabbaa
+word: abbabbab distance: 1
+exact neighborhood 25
+number of repeats 2
+words repeated 'ababbab', 2, 'abbabab', 2
+bound without repeats 22
+number of prefixes 17
+the prefixes are: aababbab, aabbabbab, abaabbab, abababbab, ababbab, abbaabab, abbaabbab, abbabaab, abbabab, abbabba, abbabbb, abbbabbab, abbbbab, abbbbbab, babbabbab, bbabbab, bbbabbab
+word: abbabbba distance: 1
+exact neighborhood 24
+number of repeats 3
+words repeated 'ababbba', 2, 'abbabba', 3
+bound without repeats 21
+number of prefixes 17
+the prefixes are: aababbba, aabbabbba, abaabbba, abababbba, ababbba, abbaabba, abbaabbba, abbababa, abbababba, abbabba, abbabbb, abbbabbba, abbbbba, abbbbbba, babbabbba, bbabbba, bbbabbba
+word: abbabbbb distance: 1
+exact neighborhood 23
+number of repeats 4
+words repeated 'ababbbb', 2, 'abbabbb', 4
+bound without repeats 20
+number of prefixes 14
+the prefixes are: aababbbb, aabbabbbb, abaabbbb, abababbbb, ababbbb, abbaabbb, abbababb, abbabbab, abbabbb, abbbabbbb, abbbbbb, babbabbbb, bbabbbb, bbbabbbb
+word: abbbaaaa distance: 1
+exact neighborhood 22
+number of repeats 5
+words repeated 'abbaaaa', 3, 'abbbaaa', 4
+bound without repeats 19
+number of prefixes 13
+the prefixes are: aabbaaaa, aabbbaaaa, ababaaaa, ababbaaaa, abbaaaa, abbabaaaa, abbbaaa, abbbaaba, abbbabaa, abbbbaaa, babbbaaaa, bbbaaaa, bbbbaaaa
+word: abbbaaab distance: 1
+exact neighborhood 23
+number of repeats 4
+words repeated 'abbaaab', 3, 'abbbaab', 3
+bound without repeats 20
+number of prefixes 16
+the prefixes are: aabbaaab, aabbbaaab, ababaaab, ababbaaab, abbaaaab, abbaaab, abbabaaab, abbbaaa, abbbaab, abbbabaab, abbbabab, abbbbaaab, abbbbaab, babbbaaab, bbbaaab, bbbbaaab
+word: abbbaaba distance: 1
+exact neighborhood 24
+number of repeats 3
+words repeated 'abbaaba', 3, 'abbbaba', 2
+bound without repeats 21
+number of prefixes 16
+the prefixes are: aabbaaba, aabbbaaba, ababaaba, ababbaaba, abbaaaba, abbaaba, abbabaaba, abbbaaa, abbbaab, abbbaba, abbbabba, abbbbaaba, abbbbaba, babbbaaba, bbbaaba, bbbbaaba
+word: abbbaabb distance: 1
+exact neighborhood 23
+number of repeats 4
+words repeated 'abbaabb', 3, 'abbbabb', 2, 'abbbaab', 2
+bound without repeats 20
+number of prefixes 16
+the prefixes are: aabbaabb, aabbbaabb, ababaabb, ababbaabb, abbaaabb, abbaabb, abbabaabb, abbbaaab, abbbaab, abbbababb, abbbabb, abbbbaabb, abbbbabb, babbbaabb, bbbaabb, bbbbaabb
+word: abbbabaa distance: 1
+exact neighborhood 24
+number of repeats 3
+words repeated 'abbabaa', 3, 'abbbaba', 2
+bound without repeats 21
+number of prefixes 17
+the prefixes are: aabbabaa, aabbbabaa, abababaa, ababbabaa, abbaabaa, abbabaa, abbababaa, abbbaaa, abbbaabaa, abbbaba, abbbabba, abbbbaa, abbbbabaa, abbbbbaa, babbbabaa, bbbabaa, bbbbabaa
+word: abbbabab distance: 1
+exact neighborhood 25
+number of repeats 2
+words repeated 'abbabab', 3
+bound without repeats 22
+number of prefixes 15
+the prefixes are: aabbabab, aabbbabab, abababab, ababbabab, abbaabab, abbabab, abbbaaab, abbbaab, abbbaba, abbbabb, abbbbab, abbbbbab, babbbabab, bbbabab, bbbbabab
+word: abbbabba distance: 1
+exact neighborhood 24
+number of repeats 3
+words repeated 'abbabba', 3, 'abbbaba', 2
+bound without repeats 21
+number of prefixes 17
+the prefixes are: aabbabba, aabbbabba, abababba, ababbabba, abbaabba, abbababba, abbabba, abbbaaba, abbbaabba, abbbaba, abbbabb, abbbbabba, abbbbba, abbbbbba, babbbabba, bbbabba, bbbbabba
+word: abbbabbb distance: 1
+exact neighborhood 23
+number of repeats 4
+words repeated 'abbabbb', 3, 'abbbabb', 3
+bound without repeats 20
+number of prefixes 15
+the prefixes are: aabbabbb, aabbbabbb, abababbb, ababbabbb, abbaabbb, abbababbb, abbabbb, abbbaabb, abbbabab, abbbabb, abbbbabbb, abbbbbb, babbbabbb, bbbabbb, bbbbabbb
+word: abbbbaaa distance: 1
+exact neighborhood 22
+number of repeats 5
+words repeated 'abbbaaa', 4, 'abbbbaa', 3
+bound without repeats 19
+number of prefixes 14
+the prefixes are: aabbbaaa, aabbbbaaa, ababbaaa, ababbbaaa, abbabaaa, abbabbaaa, abbbaaa, abbbabaaa, abbbbaa, abbbbaba, abbbbbaa, babbbbaaa, bbbbaaa, bbbbbaaa
+word: abbbbaab distance: 1
+exact neighborhood 23
+number of repeats 4
+words repeated 'abbbaab', 4, 'abbbbab', 2
+bound without repeats 20
+number of prefixes 16
+the prefixes are: aabbbaab, aabbbbaab, ababbaab, ababbbaab, abbabaab, abbabbaab, abbbaaab, abbbaab, abbbabaab, abbbbaa, abbbbab, abbbbbaab, abbbbbab, babbbbaab, bbbbaab, bbbbbaab
+word: abbbbaba distance: 1
+exact neighborhood 24
+number of repeats 3
+words repeated 'abbbaba', 4
+bound without repeats 21
+number of prefixes 15
+the prefixes are: aabbbaba, aabbbbaba, ababbaba, ababbbaba, abbababa, abbabbaba, abbbaaba, abbbaba, abbbbaa, abbbbab, abbbbba, abbbbbba, babbbbaba, bbbbaba, bbbbbaba
+word: abbbbabb distance: 1
+exact neighborhood 23
+number of repeats 4
+words repeated 'abbbabb', 4, 'abbbbab', 2
+bound without repeats 20
+number of prefixes 16
+the prefixes are: aabbbabb, aabbbbabb, ababbabb, ababbbabb, abbababb, abbabbabb, abbbaabb, abbbababb, abbbabb, abbbbaab, abbbbab, abbbbbabb, abbbbbb, babbbbabb, bbbbabb, bbbbbabb
+word: abbbbbaa distance: 1
+exact neighborhood 22
+number of repeats 5
+words repeated 'abbbbaa', 5, 'abbbbba', 2
+bound without repeats 19
+number of prefixes 15
+the prefixes are: aabbbbaa, aabbbbbaa, ababbbaa, ababbbbaa, abbabbaa, abbabbbaa, abbbabaa, abbbabbaa, abbbbaa, abbbbabaa, abbbbba, abbbbbba, babbbbbaa, bbbbbaa, bbbbbbaa
+word: abbbbbab distance: 1
+exact neighborhood 23
+number of repeats 4
+words repeated 'abbbbab', 5
+bound without repeats 20
+number of prefixes 15
+the prefixes are: aabbbbab, aabbbbbab, ababbbab, ababbbbab, abbabbab, abbabbbab, abbbabab, abbbabbab, abbbbaab, abbbbab, abbbbba, abbbbbb, babbbbbab, bbbbbab, bbbbbbab
+word: abbbbbba distance: 1
+exact neighborhood 22
+number of repeats 5
+words repeated 'abbbbba', 6
+bound without repeats 19
+number of prefixes 15
+the prefixes are: aabbbbba, aabbbbbba, ababbbba, ababbbbba, abbabbba, abbabbbba, abbbabba, abbbabbba, abbbbaba, abbbbabba, abbbbba, abbbbbb, babbbbbba, bbbbbba, bbbbbbba
+word: abbbbbbb distance: 1
+exact neighborhood 21
+number of repeats 6
+words repeated 'abbbbbb', 7
+bound without repeats 18
+number of prefixes 9
+the prefixes are: aabbbbbb, ababbbbb, abbabbbb, abbbabbb, abbbbabb, abbbbbab, abbbbbb, babbbbbbb, bbbbbbb
