@@ -7,4 +7,4 @@ We are trying to determine the maximal length k that has reasonnable computation
 
 For k=17 d=1, about 1 hour running time.
 
-For k=20
+For k=20, running time of abour 3 hours. The file is too big to be supported by github.
