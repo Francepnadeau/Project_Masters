@@ -1,3 +1,10 @@
+Results for k=13 and d=1.
+About 10 minutes running time.
+
 Results of the experiment for k=15 and d=1.
 About 20 minutes running time.
 We are trying to determine the maximal length k that has reasonnable computational time.
+
+For k=17 d=1, about 1 hour running time.
+
+For k=20
