@@ -3,6 +3,7 @@
 # Recurrences in Gene Myer article 'What's behind BLAST' p.10
 # We use the parameters 'k' for the length of the word, 'd' for the edit distance and 's' for the length of the alphabet.
 
+
 import sys
 
 def sum1(k,d,s):  #summation for inserts 
