@@ -51,7 +51,7 @@ end_list=[]     # initialising, for final_no_repeats and prefixes
 
 myers_bound=upperbound(k,d,s)
 
-output_file.write('Distance '+str(d)+ 'lenght '+str(k)+"\n")
+output_file.write('Distance '+str(d)+" "+'lenght '+str(k)+"\n")
 output_file.write('Upper bound Myers '+str(myers_bound)+"\n")
 
 for w in words[0:len(words)/2]:
@@ -68,6 +68,6 @@ for w in words[0:len(words)/2]:
     
     pref=prefixes(w,d,pre,Sigma,[],[])
     
-    output_file.write('Touzet:'+" "+str(touzet)+'Repeats M:'+" "+str(counter)+'M no repeats:'+" "+str(len(no_rep))+ 'Number of prefixes:'+" "+str(len(pref))+"\n")
+    output_file.write('Touzet:'+" "+str(touzet)+" "+'Repeats M:'+" "+str(counter)+" "+'M no repeats:'+" "+str(len(no_rep))+" "+ 'Number of prefixes:'+" "+str(len(pref))+"\n")
     
 output_file.close()
