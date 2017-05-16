@@ -7,9 +7,9 @@
 #Modified output. We de not generate the words that repeat and the list of prefixes.
 # We do print the upperbound given by the recurrences of Myers,
 # the exact bound for the neighborhood given by Touzet, labelled 'Touzet',
-# the number of words that repeat in Myers, labelled 'Repeats M',
-# the bound of Myers once we've removed the redundance, 'M no repeats',
-# and finally the number of words in the condensed neighborhood, 'Number of prefixes'.
+# the number of words that repeat in Myers, labelled 'Repeats',
+# the bound of Myers once we've removed the redundance, 'No_rep',
+# and finally the number of words in the condensed neighborhood, 'Num_pref'.
 
 import sys
 import itertools
@@ -55,7 +55,7 @@ output_file.write('Distance '+str(d)+" "+'lenght '+str(k)+"\n")
 output_file.write('Upper bound Myers '+str(myers_bound)+"\n")
 
 for w in words[0:len(words)/2]:
-    output_file.write('word:'+" "+str(w))
+    output_file.write('word:'+" "+str(w)+" ")
     
     touzet=exact_number_words(w,Sigma,d)
     #output_file.write('Touzet:'+" "+str(touzet)+"\n")
@@ -68,6 +68,6 @@ for w in words[0:len(words)/2]:
     
     pref=prefixes(w,d,pre,Sigma,[],[])
     
-    output_file.write('Touzet:'+" "+str(touzet)+" "+'Repeats M:'+" "+str(counter)+" "+'M no repeats:'+" "+str(len(no_rep))+" "+ 'Number of prefixes:'+" "+str(len(pref))+"\n")
+    output_file.write('Touzet:'+" "+str(touzet)+" "+'Repeats:'+" "+str(counter)+" "+'No_rep:'+" "+str(len(no_rep))+" "+ 'Num_pref:'+" "+str(len(pref))+"\n")
     
 output_file.close()
