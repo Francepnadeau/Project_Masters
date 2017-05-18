@@ -172,6 +172,6 @@ for k in range(1,K_dist+1):
     states=DULA_STATES
     st,ed=create_graph(G,states,k)
 
-    output_file.write('k='+" "+str(k)+" "+'states:'+" "+st+" "+'edges:'+" "+ed+"\n")
+    output_file.write('k='+" "+str(k)+" "+'states:'+" "+str(st)+" "+'edges:'+" "+str(ed)+"\n")
         
 output_file.close()
