@@ -102,7 +102,7 @@ def gen_state_DULA(l,K_dist,X,D):  #We use l to specify which level of the tree 
         Y=_X_PRIME.copy()  #Because appending _X_PRIME directly erases the previous entries
         DULA_STATES.append(Y)
     else:
-        for i in {0,1}:
+        for i in [0,1]:
             if i==0:  #Since 0 means we do not add the state, we can always have this case.
                 _X_PRIME[l]=0
                 gen_state_DULA(l+1,K_dist,_X_PRIME,DULA_STATES)
