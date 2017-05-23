@@ -8,8 +8,9 @@ import networkx as nx
 import sys
 import itertools
 
-K_dist = int(sys.argv[1])
-output_file=open(sys.argv[2],"w")
+K_start = int(sys.argv[1])
+K_dist = int(sys.argv[2])
+output_file=open(sys.argv[3],"w")
 
 #Creating all bits of length 2k+1 for the transitions of DULA(k).
 # Used for creating the edges of the graph for topological order.
@@ -129,7 +130,7 @@ def create_graph(G,DULA_STATES,K_dist):#Creating the nodes of the graph, G is a 
     return(G.number_of_nodes())
  
     
-for k in range(1,K_dist+1):
+for k in range(K_start,K_dist+1):
     
     G=nx.DiGraph()
     gen_state_DULA(0,k,{},[])
