@@ -1,4 +1,0 @@
-May 31, 2017
-Creating a folder with the results of the experiments computed with the latest version of the code.
-In this version we do not generate words, only the number of repeats and the number of words in the condensed-neighborhood.
-We also have the number of words in the neighborhood (from Touzet) and the upperbound of Myers.
