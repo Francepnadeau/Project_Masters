@@ -24,6 +24,6 @@ with open('5_1_results') as f:
 # you may also want to remove whitespace characters like `\n` at the end of each line
 content = [x.strip() for x in content] 
 
-clean = [ x for x in content if x.isdigit() ]
+clean = filter(str.isdigit, content)
 
 print(clean)
