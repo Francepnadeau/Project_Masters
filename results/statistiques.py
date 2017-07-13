@@ -5,7 +5,7 @@
 import sys
 import itertools
 
-output_file=open(sys.argv[3],"w")
+output_file=open(sys.argv[0],"w")
 
 with open('5_1_results') as f:
     content = f.readlines()
