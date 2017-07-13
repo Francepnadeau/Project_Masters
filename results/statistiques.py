@@ -6,8 +6,8 @@ import sys
 import itertools
 
 output_file=open(sys.argv[2],"w")
-
-with open('sys.argv[1]') as f:
+name = str(sys.argv[1])
+with open(name) as f:
     content = f.readlines()
 content = [x.strip() for x in content] 
 
