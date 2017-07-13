@@ -14,9 +14,10 @@ content = [x.strip() for x in content]
 data=[] 
 for i in range(0,len(content)):
     li=content[i].split()
+    output_file.write(filter(str.isdigit, li))
     data.append(filter(str.isdigit, li))
     
-output_file.write(data)
+#output_file.write(data)
 
 output_file.close()
 #print(data)
