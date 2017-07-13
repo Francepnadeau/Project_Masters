@@ -6,15 +6,22 @@ import sys
 import itertools
 
 
-f = open("5_1_results","r")  #state the name of the file to import
-fdata=[]
+# f = open("5_1_results","r")  #state the name of the file to import
+# fdata=[]
 
-for line in f.readfiles():
-    fdata.append([])
-    fdata[i].append(line)
+# for line in f.readfiles():
+#     fdata.append([])
+#     fdata[i].append(line)
 
-d=[]  #storing the relevant data from the file
-for line in range(len(f.readlines())-2):
-    d.append([])
+# d=[]  #storing the relevant data from the file
+# for line in range(len(f.readlines())-2):
+#     d.append([])
     
-print(d)
+# print(d)
+
+with open(5_1_results) as f:
+    content = f.readlines()
+# you may also want to remove whitespace characters like `\n` at the end of each line
+content = [x.strip() for x in content] 
+
+print(content)
