@@ -5,7 +5,7 @@
 import sys
 import itertools
 
-output_file=open(sys.argv[0],"w")
+#output_file=open(sys.argv[0],"w")
 
 with open('5_1_results') as f:
     content = f.readlines()
@@ -16,6 +16,7 @@ for i in range(0,len(content)):
     li=content[i].split()
     data.append(filter(str.isdigit, li))
     
-output_file.write(data)
+#output_file.write(data)
 
-output_file.close()
+#output_file.close()
+print(data)
